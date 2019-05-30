@@ -1,0 +1,1457 @@
+ACRES_AG_1MI,ANIMAL_COUNT,COUNTYNAME,Lagoon,Operation,APP_RATE,Regulate_1,SOURCE,Status,WASTE_OUTPUT,X,Y,dataID
+28,800,Stokes,1,Edsel Bennett Feeder Pig Farm,110314,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,3088800,-80.1675,36.4669,1
+196,1800,Rockingham,2,Eagle Falls Hog Farm,8513,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1668600,-79.8175,36.4228,1
+320,260,Person,1,Thomas Farms Pork Inc. #2,8513,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2724280,-78.9142,36.4247,1
+93,1205,Rockingham,2,Massey Creek Farms,41501,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Expired,3859615,-79.8311,36.3847,1
+520,200,Person,2,James Thomas Farm,4030,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2095600,-78.845,36.3372,1
+561,445,Person,2,Foushee Farms LLC,152,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,84995,-79.0053,36.3253,1
+727,1300,Person,1,Thomas Farms Pork Inc.,1658,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1205100,-78.8833,36.3214,1
+421,1140,Rockingham,2,Hill Top Farm,8673,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3651420,-79.6161,36.2731,1
+222,1100,Person,4,Boyette Swine Farm,4593,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1019700,-79.0194,36.2672,1
+492,4000,Orange,2,Beaver Creek Farm,7537,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-79.0625,36.2292,1
+209,250,Guilford,3,NC A&T Porcine Research Laboratory,4618,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,965250,-79.7267,36.0667,1
+359,4100,Guilford,3,Ward Farms,10587,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3800700,-79.6625,36.0239,1
+129,5000,Guilford,1,Robert Dale Holt,7403,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,955000,-79.5533,35.9383,1
+187,1470,Guilford,2,Bruce A. Humble,7287,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1362690,-79.5625,35.9161,1
+276,600,Alamance,1,Randall Lewis Farm 2,2015,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,556200,-79.3033,35.87,1
+220,1900,Randolph,1,Baker Farm,8006,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1761300,-79.8917,35.8303,1
+351,1200,Randolph,1,"KLS Swine Farm, LLC",10950,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-79.6272,35.8119,1
+349,2200,Randolph,3,Jester Ridge Farm,5844,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2039400,-79.5964,35.775,1
+316,2953,Randolph,1,Oakland Farms,8663,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2737431,-79.6233,35.6992,1
+83,4400,Chatham,1,Meadow Creek Farm,49142,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4078800,-79.4,35.6833,1
+124,12400,Randolph,2,Applefield Farm-Lower & Upper,92700,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11494800,-79.6153,35.6208,1
+141,2640,Randolph,1,Craven Farms,17357,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-79.575,35.6328,1
+43,2900,Chatham,1,Thurman Jessup Farm,62519,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2688300,-79.5319,35.6053,1
+790,787,Davidson,1,Loflin Farms,923,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,729549,-80.0692,35.5978,1
+46,8025,Randolph,4,Copperhead Farm,161721,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7439175,-79.6931,35.5639,1
+323,2400,Harnett,1,Slippery Rock Farm,6888,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2224800,-78.8859,35.5416,1
+145,6953,Moore,8,Allred Farms,9159,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1328023,-79.6475,35.4691,1
+35,2940,Moore,2,Key Farm,77868,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-79.5945,35.4747,1
+60,7104,Montgomery,2,Bobby Ray Atkins - Nursery #1 & 2,22614,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1356864,-79.8522,35.4416,2
+145,6953,Moore,8,Allred Farms,9159,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1328023,-79.6475,35.4691,2
+35,2940,Moore,2,Key Farm,77868,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-79.5945,35.4747,2
+20,806,Moore,3,Dixie Farms,129081,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2581618,-79.4755,35.4512,2
+134,900,Harnett,1,Keith Thomas (P-60),6226,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,834300,-78.8677,35.4347,2
+8,2400,Moore,2,Blue Ribbon Swine,57300,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,458400,-79.4525,35.4007,2
+532,1536,Harnett,1,K & J Farm,551,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,293376,-78.8872,35.3898,2
+474,2400,Harnett,1,P-62,16218,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.8737,35.3601,2
+120,3272,Moore,3,Wet Creek Farm,87335,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10480216,-79.6357,35.3243,2
+9,2940,Moore,1,Loblolly Farm,302820,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-79.5414,35.3484,2
+187,3552,Lee,1,Jimmy Dickens Farm,3628,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-79.2175,35.3386,2
+73,5880,Harnett,2,Phillip Page Farm,74668,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.9705,35.3261,2
+317,7350,Harnett,2,"W. Thomas Butler Farms, LLC",21494,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6813450,-78.9431,35.3223,2
+131,1250,Moore,2,Indian Hills Farm,36842,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,4826250,-79.6457,35.3255,2
+416,5880,Harnett,2,Black Farm,13103,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.9394,35.296,2
+186,2200,Harnett,2,Carroll's Foods Inc. Farm 86 & 92,45668,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,8494200,-79.1556,35.2565,2
+377,8700,Montgomery,2,Little River Farm,4408,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1661700,-79.9209,35.2193,2
+156,7920,Harnett,1,S-6 & Buffalo Ridge Farm,47063,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.1295,35.2098,2
+71,7104,Montgomery,2,Naked Creek Farm,19111,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1356864,-79.7031,35.2008,2
+593,3552,Anson,1,Kevin Martin Farm,1144,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-80.1162,35.1562,2
+515,3600,Anson,6,Fox Ridge Complex,22390,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11530800,-80.15,35.1333,2
+515,2000,Anson,6,Fox Ridge Complex,742,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,382000,-80.15,35.1333,2
+102,3520,Richmond,2,Neal Grant Farm,31991,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-79.7986,35.1337,2
+415,8800,Richmond,1,Wilson's Swine Farm,19657,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-79.6073,35.1203,2
+1248,3552,Richmond,1,Pee Dee Farm,544,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-79.9883,35.1028,2
+294,7920,Richmond,1,Chris Yaklin Farm,24972,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.792,35.1145,2
+293,1205,Richmond,2,Tar Heel Swine,13173,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3859615,-79.7219,35.1171,2
+222,5300,Richmond,3,Rocky Ridge Farm,22131,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4913100,-79.7871,35.0898,2
+289,7040,Anson,1,A. Dale McRae Farm,4653,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1344640,-80.0626,35.0504,2
+255,3123,Richmond,2,Clear View Farm,11353,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2895021,-79.792,35.0769,2
+247,5760,Hoke,1,Double C Farms,21617,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-79.3792,35.02,2
+138,2880,Hoke,1,Roy Wood Jr. Farm,19346,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-79.3311,35.0311,2
+559,3520,Anson,1,Louis Winfree Farm,1203,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,672320,-80.0632,35.0391,2
+49,325,Richmond,1,Sullivan Poultry,6148,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,301275,-79.7109,35.0094,2
+476,770,Hoke,1,R&R Pork Farm,5181,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2466310,-79.3186,35.0032,2
+136,8960,Richmond,1,J-D Farms LLC,61073,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8305920,-79.6312,34.9714,2
+82,1700,Hoke,1,Farm 6707,66404,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5445100,-79.3895,34.9985,2
+178,3552,Hoke,1,Upchurch & Willis / C & M Farm,3811,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-79.2019,34.9904,2
+136,17413,Richmond,1,J-D Farms LLC,24455,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3325883,-79.6312,34.9714,2
+877,3520,Hoke,1,"T.B. Upchurch, Inc",3721,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-79.1789,34.9599,2
+148,2400,Scotland,1,Farm 7687,51941,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.4909,34.9322,2
+237,2400,Scotland,1,Farm 7689,32435,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.4716,34.9367,2
+678,2400,Hoke,1,Farm 5786,11338,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.3216,34.9413,2
+1037,5000,Hoke,1,Hendrix Livestock Inc.,4470,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4635000,-79.2723,34.9481,2
+76,2302,Richmond,1,Cognac Farms,97017,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7373306,-79.6246,34.9609,2
+803,4800,Hoke,1,Blue Farm & White Farm,19146,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,15374400,-79.3175,34.9145,2
+718,3552,Robeson,1,Hugs Pigs,945,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-79.0532,34.9267,2
+16,3552,Anson,1,Live Oak Farms #1,42402,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-80.0478,34.9084,2
+534,10000,Scotland,3,Dogwood Complex / Farm 74411,17360,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9270000,-79.431,34.8951,2
+766,4000,Robeson,1,"Buckhorn Farms, LLC.",16726,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.9787,34.902,2
+73,3552,Anson,1,Live Oak Farms #2,9294,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-80.0411,34.9071,2
+242,2400,Scotland,1,Farm 7688,31765,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.4732,34.9289,2
+534,8000,Scotland,3,Dogwood Complex / Farm 74411,2861,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1528000,-79.431,34.8951,2
+406,80,Cumberland,1,J & D Farm,761,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Expired,308880,-78.7953,34.8998,2
+333,2200,Anson,1,White Rock Farms,21161,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7046600,-80.0664,34.8531,2
+1004,8800,Hoke,1,Hog's Breath Inc / Farm 5077,8125,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-79.3028,34.8713,2
+1019,2400,Robeson,1,7681,7544,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.127,34.8643,2
+53,3552,Anson,1,Gold Creek Farms #2,12801,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-80.0247,34.8638,2
+751,15840,Hoke,2,"Swinestone Farm, Inc.",19552,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14683680,-79.3186,34.8878,2
+713,4411,Robeson,2,Farm 7690 & 7691,19815,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14128433,-78.9182,34.8359,2
+174,1540,Cumberland,2,Riverview Farms,28348,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4932620,-78.8037,34.8607,2
+481,3500,Bladen,1,Squire's Sow Complex,23307,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7709,34.8417,2
+252,880,Anson,1,T & T Farm,3237,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,815760,-80.1678,34.8501,2
+112,3552,Anson,1,Gold Creek Farm,6057,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-80.1018,34.8455,2
+180,2400,Richmond,1,7685,42707,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.6486,34.8259,2
+1117,1200,Hoke,1,Charles Locklear Farm,4148,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,4633200,-79.2939,34.8485,2
+1116,3927,Robeson,1,Farm 5578,11271,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.2713,34.8298,2
+847,3927,Robeson,1,Farm 5575,14850,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.1452,34.8335,2
+132,400,Bladen,1,Bladen Boar Stud,11700,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,1544400,-78.7864,34.848,2
+528,3927,Scotland,1,Farm 5574,23822,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.4113,34.7988,2
+238,500,Scotland,1,Farm 5570,22013,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,5239000,-79.3794,34.806,2
+1006,3927,Robeson,1,Farm 5576,12503,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.2242,34.8152,2
+198,4411,Bladen,3,P-14 A&B,71356,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14128433,-78.806,34.8169,2
+481,400,Bladen,1,Squire's Sow Complex,159,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-78.7709,34.8417,2
+981,1200,Scotland,2,Farm 7668,3918,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-79.5102,34.8072,2
+281,1200,Scotland,1,7169,3959,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-79.3868,34.8076,2
+1027,3520,Robeson,1,Samuel Locklear Farm,3177,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-79.2982,34.8194,2
+795,16000,Robeson,2,Farm 94 / 3094,18657,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14832000,-79.0128,34.7893,2
+651,4600,Robeson,2,Farm 7442,6550,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4264200,-78.9437,34.8254,2
+39,4320,Scotland,1,T. G. Gibson,102683,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-79.6398,34.7996,2
+505,8800,Scotland,1,Farm 5070,16154,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-79.3499,34.7633,2
+1018,2400,Robeson,1,Farm # 7684,7551,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.2803,34.7805,2
+1016,120,Robeson,2,Oxendine Pork Farm,1238,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1257360,-79.0746,34.7804,2
+450,5927,Bladen,3,"Farm #3515, 3316, and 3723",42187,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,18984181,-78.8466,34.7517,2
+142,3500,Bladen,1,Evergreen Sow,78947,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7832,34.8135,2
+841,425,Scotland,1,7097 - Gibson Farm,1951,Swine - Gilts,NC Dept. of Environmental Quality,Active,1640925,-79.562,34.7696,2
+516,9288,Scotland,5,Farm 5096,16686,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8609976,-79.3902,34.7849,2
+1146,6500,Robeson,1,"Ward Farms, Inc.",5258,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6025500,-78.9567,34.7466,2
+988,8000,Robeson,1,"All In Farms, Inc.",7506,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7416000,-78.9176,34.745,2
+516,1350,Scotland,1,7177,10101,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,5212350,-79.3897,34.7705,2
+1030,800,Robeson,1,Billy Oxendine Farm,720,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,741600,-79.1491,34.7511,2
+482,3500,Bladen,1,Singletary Sow Farm,23258,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7374,34.757,2
+796,7200,Robeson,3,"5703, 5704, & 5711",28972,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23061600,-79.329,34.6975,2
+575,8000,Bladen,1,Farm 92,12897,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7416000,-78.8019,34.7167,2
+891,7920,Scotland,1,Carroll's Farm # 7078 - Unit 1,8240,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.466,34.6922,2
+1018,35200,Robeson,1,"5071, 5072, 5073, & 5074",32053,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,32630400,-79.342,34.6931,2
+629,5280,Scotland,1,Farm 50793-1,7781,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-79.4865,34.6978,2
+919,4800,Robeson,1,Carroll's Farm # 5080,4842,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-79.3788,34.6935,2
+382,4512,Bladen,5,P-7 A - E,37832,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14451936,-78.793,34.6885,2
+830,3927,Scotland,1,Farm 5573,15154,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.4622,34.6627,2
+1041,2400,Robeson,1,Farm 5782,7384,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.4249,34.6432,2
+943,3520,Robeson,1,In Deep Farm,3460,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-78.8555,34.6634,2
+986,3927,Robeson,1,Farm 5579,12757,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-79.3634,34.6528,2
+1031,2496,Robeson,1,Jack McLean Farm,2244,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2313792,-79.3113,34.6397,2
+641,2473,Bladen,4,Farm P-24,3576,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2292471,-78.793,34.6477,2
+719,7040,Robeson,1,M&T Farm,9077,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-79.436,34.6389,2
+436,3200,Robeson,1,David McLean Farm,6804,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-78.8595,34.6166,2
+1023,17600,Robeson,4,5075 & 5076,15948,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,16315200,-79.3907,34.6245,2
+1010,3552,Robeson,1,William Davis Farm,672,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-79.3241,34.6058,2
+713,6160,Bladen,2,"Fox Bay Farm, LLC",8009,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5710320,-78.8173,34.5899,2
+848,12160,Bladen,2,Allen Brothers Farm,2739,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2322560,-78.8047,34.5987,2
+686,752,Bladen,1,Pineland Grain Co Farm,3511,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2408656,-78.7845,34.6148,2
+748,2400,Robeson,1,Farm 5701,10277,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-79.3647,34.6149,2
+811,7920,Bladen,1,Singletary Finishing,9053,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-78.7983,34.5916,2
+609,1200,Robeson,1,Farm 5572,20646,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,12573600,-79.3779,34.6001,2
+1027,7920,Robeson,1,Farm #2 - Aaron Swamp,7149,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.2088,34.5452,2
+614,7040,Bladen,2,"Melvin Bros Farms, LLC",10629,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.8238,34.5719,2
+1275,3936,Robeson,1,Tommy Stone Farm,2862,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3648672,-79.3202,34.5568,2
+664,2400,Bladen,1,Farm 5710,11577,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.8041,34.5797,2
+771,28152,Bladen,4,Storms Farm Waste to Energy Digester Facilities,33848,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,26096904,-78.7456,34.5478,2
+1104,2880,Robeson,1,Pineland Farms,2418,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-79.3163,34.538,2
+569,750,Bladen,2,Reedy Branch Farm,252,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,143250,-78.8288,34.5392,2
+781,7920,Robeson,1,Hoke Smith Jr #3 Farm (Hedge Farm),9401,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.2282,34.5139,2
+971,7920,Robeson,1,Hoke Smith Jr #1 Farm (Sugar Hill),7561,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.1901,34.5079,2
+275,3200,Bladen,1,Ross Lewis Farm,10787,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-78.8369,34.519,2
+904,7920,Robeson,1,Hoke Smith Jr #4 Farm (Savannah Pond),8122,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.2064,34.5216,2
+607,8800,Bladen,1,Sandhill Hog Farm,13439,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-78.8538,34.4902,2
+381,16000,Bladen,3,Farm #29 & Farm #93,38929,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14832000,-78.7728,34.4962,2
+739,752,Bladen,1,Px-10,3259,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2408656,-78.7516,34.5101,2
+770,7920,Robeson,1,Roger Oxendine Farm,9535,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.2282,34.4841,2
+474,2940,Robeson,1,Rouse 3,5750,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.9958,34.4823,2
+626,2308,Robeson,1,"Stuart Mill Road Farms, LLC",11809,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7392524,-79.2443,34.4656,2
+964,7920,Robeson,1,Freedman Farm Robeson,7616,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-79.1286,34.4529,2
+470,3552,Columbus,1,Pug & Sugs Farm,1443,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.8864,34.4606,2
+607,7040,Columbus,1,Double R Farms #2,10751,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.8386,34.4571,2
+922,4410,Robeson,1,Marshall Willoughby Farm,4434,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-79.2024,34.4501,2
+416,9600,Columbus,3,Fields Farm Site #1 - 3,4408,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1833600,-78.9075,34.4522,2
+475,2256,Columbus,1,Coastal Farms #1,15213,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7225968,-78.7678,34.4306,2
+1200,4800,Columbus,2,Freedman Farm,3708,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-78.7572,34.4532,2
+767,7104,Robeson,1,George McLean Farm,1769,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1356864,-79.2161,34.4322,2
+992,7104,Robeson,1,Eddie Johnson,1368,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1356864,-79.1877,34.4365,2
+594,1200,Robeson,1,"Robco Farms, LLC",6471,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-79.1677,34.443,2
+633,7920,Columbus,1,Michael & Michelle Luhrs Farm,11598,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-78.9378,34.4033,2
+982,6400,Columbus,2,Mark and Tommy Johnson,1245,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.8806,34.4278,2
+714,6000,Columbus,1,Coastal Farms Inc,26916,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,19218000,-78.7167,34.4367,2
+903,5280,Robeson,1,B W Rouse #2,5420,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-79.0385,34.4126,2
+1003,5280,Columbus,1,L.C. Carter Farm,4880,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-78.8656,34.4217,2
+639,3520,Columbus,1,Six B Farm,5106,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-78.8483,34.4181,2
+984,1270,Robeson,2,Sandy Evans 19-20,1196,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1177290,-79.1403,34.3784,2
+495,5760,Robeson,2,Rouse 4,10787,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-79.0859,34.3802,2
+921,3520,Robeson,1,Billy W. Rouse #1,3543,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-79.0318,34.4001,2
+536,3200,Columbus,1,Jerry Johnson Farm,5534,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-78.8618,34.3944,2
+832,7040,Columbus,1,Collins Swine Farm,7844,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.7845,34.369,2
+467,4400,Columbus,1,Cecil Barnhill and Sons Farm,8734,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4078800,-78.8817,34.3844,2
+658,4400,Columbus,1,Graba Farms,6199,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4078800,-78.8433,34.3633,2
+463,13230,Robeson,3,Sandy Evans 1-18,26489,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,12264210,-79.0805,34.36,2
+825,10880,Columbus,3,"K & S Farms, LLC",12225,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10085760,-78.9767,34.3364,2
+841,2940,Columbus,1,Rossie Bullock Farm,3241,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.8889,34.3417,2
+28,800,Stokes,1,Edsel Bennett Feeder Pig Farm,110314,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,3088800,-80.1675,36.4669,3
+726,7680,Surry,1,Double E Farms 2,2021,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-80.7706,36.4022,3
+1165,2400,Surry,1,W4 Farms,6598,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-80.7819,36.3742,3
+422,7650,Surry,1,Cundiff Creek Farm,16805,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7091550,-80.5864,36.2931,3
+1015,8640,Yadkin,1,"Loyd Ray Farms, Inc.",7891,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,8009280,-80.7083,36.1667,3
+373,260,Caldwell,2,B.G. Looper and Sons / Wesley Looper,7304,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2724280,-81.3586,35.82,3
+213,1578,Rowan,2,P & F Farms,28604,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,6092658,-80.3729,35.6693,3
+735,49286,Northampton,8,Farms 27-30,52035,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,38245936,-77.625,36.5431,4
+101,1250,Warren,1,Spring Valley Farm,129678,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,13097500,-78.2817,36.5411,4
+281,750,Warren,1,White Ridge Farm,8549,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2402250,-78.2086,36.5361,4
+219,1200,Warren,1,NC Farm Partnership #2,1047,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,229200,-78.2494,36.5208,4
+885,7992,Northampton,3,Farm 40 A & 40B,8371,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7408584,-77.4711,36.4958,4
+520,1000,Warren,2,"North Carolina Farm of Wise, LLC",20150,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,10478000,-78.1583,36.4917,4
+134,600,Warren,2,Farm 7360,46916,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,6286800,-78.0839,36.4811,4
+1065,2400,Northampton,2,Farm 39,7218,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.49,36.4867,4
+885,3552,Northampton,3,Farm 40 A & 40B,767,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.4711,36.4958,4
+927,3272,Northampton,2,Farm 11 / 8511,11306,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10480216,-77.3981,36.49,4
+307,1256,Granville,2,C. F. Blackwell Company,3793,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1164312,-78.6836,36.4458,4
+796,600,Northampton,1,Long's Hog Farm,699,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,556200,-77.3633,36.44,4
+609,1400,Northampton,1,Barrow East,2131,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1297800,-77.3756,36.4069,4
+599,1100,Northampton,1,Wayne West Farm,1702,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1019700,-77.4581,36.3975,4
+83,600,Warren,2,Farm 61,75745,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,6286800,-77.9861,36.3614,4
+266,1000,Northampton,1,Barrow West,3485,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,927000,-77.4533,36.3667,4
+715,3272,Northampton,2,Farm 36 / 8536,14658,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10480216,-77.4272,36.3433,4
+540,3927,Northampton,2,Farm 37 / 8537,23293,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-77.3631,36.3122,4
+572,18600,Northampton,3,"Winnaway Farm - Sites 1, 2 & 3",6211,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3552600,-77.3583,36.3306,4
+63,2080,Halifax,2,Perry Sow,105750,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6662240,-77.4097,36.2375,4
+404,500,Halifax,1,Farm 63,12968,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,5239000,-77.5161,36.2253,4
+202,9510,Halifax,2,Fishing Creek Farm,43642,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8815770,-77.9306,36.1967,4
+202,3500,Halifax,2,Fishing Creek Farm,3309,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,668500,-77.9306,36.1967,4
+600,500,Halifax,2,Farm 62,8732,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,5239000,-77.5833,36.1886,4
+242,6761,Franklin,1,Franklin Finisher,21680,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,5246536,-78.065,36.1558,4
+70,9600,Nash,6,"Harrison Pork Productions, Inc.",127131,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8899200,-78.0283,36.1544,4
+626,6400,Halifax,1,Perry Nursery,1953,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.4272,36.1697,4
+637,6400,Nash,4,Whitakers,9314,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.7595,36.1399,4
+940,4000,Halifax,1,Sessoms Farm,3945,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-77.5,36.1533,4
+143,3800,Nash,1,Moore Farm,5076,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,725800,-78.0167,36.1056,4
+578,5600,Nash,2,Moore's Swine Farm,8981,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5191200,-77.9583,36.1,4
+833,3840,Edgecombe,1,Joe Suggs Farm,4273,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.6611,36.1158,4
+1289,12595,Halifax,2,East Pork Farm,9058,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11675565,-77.3944,36.1008,4
+520,2169,Franklin,1,Andrews Hunt Farm (Castalia),13360,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6947307,-78.1014,36.0761,4
+469,1000,Nash,4,Swift Creek Hog Farm,6829,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3203000,-77.735,36.0864,4
+913,2411,Halifax,1,Farm 8151,8458,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7722433,-77.4953,36.0808,4
+670,1750,Franklin,1,Gardner Farms 1,2421,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1622250,-78.135,36.0733,4
+563,4800,Edgecombe,4,CAJ One Inc,32918,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,18532800,-77.5508,36.0456,4
+707,2411,Halifax,1,Farm 8152,10923,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7722433,-77.5049,36.0745,4
+880,5760,Edgecombe,1,Phil Bulluck Farm,6068,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.7169,36.0389,4
+736,8640,Edgecombe,6,Hanor Multiplier,10882,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8009280,-77.6367,36.0519,4
+736,7680,Edgecombe,6,Hanor Multiplier,1993,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-77.6367,36.0519,4
+534,1500,Nash,2,Nash Pigg Inc.,8997,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4804500,-77.9908,36.0465,4
+854,7680,Edgecombe,1,Steve Brewer Farm,8336,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7119360,-77.425,36.0244,4
+327,7200,Franklin,3,Peachtree Creek Farm Inc.,20411,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-78.1397,36.0094,4
+373,18763,Franklin,2,First Line Farms L.L.C.,9608,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3583733,-78.135,36.0131,4
+576,3000,Nash,1,Sykes Farm # 2,4828,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2781000,-78.0961,36.0147,4
+506,1000,Nash,2,Batten Farm,377,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,191000,-77.9484,36.0198,4
+806,4800,Edgecombe,1,Steve Harper Farm,5521,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-77.5864,36.0256,4
+435,2886,Nash,1,Sykes Farm # 1,6150,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2675322,-78.0839,36.0008,4
+578,7000,Edgecombe,2,Polly Ridge,38791,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,22421000,-77.3992,35.9831,4
+731,6400,Edgecombe,5,Shellbank Farm,8116,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.6878,35.9583,4
+639,15580,Edgecombe,5,VF Farms LLC,4657,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2975780,-77.4778,35.9478,4
+881,14109,Nash,2,Strother Swine Farms Unit 5 - Nash Pig Farm,3059,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2694819,-77.9444,35.9067,4
+479,3800,Nash,1,Murray Farms Inc,1515,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,725800,-78.08,35.905,4
+877,450,Nash,1,Hill Farms 2,1644,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,1441350,-77.9617,35.9022,4
+902,2750,Edgecombe,2,Johnson Livestock,2826,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2549250,-77.7083,35.8978,4
+867,2693,Edgecombe,1,Wilson Multiplier,9949,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8625679,-77.4025,35.8828,4
+927,1764,Edgecombe,2,Creekside Farm,7347,Swine - Gilts,NC Dept. of Environmental Quality,Active,6810804,-77.3781,35.8889,4
+927,720,Edgecombe,2,Creekside Farm,148,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,137520,-77.3781,35.8889,4
+670,1500,Edgecombe,1,W.C. Varnell Jr. Farm,2075,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1390500,-77.7661,35.8872,4
+816,482,Nash,2,Middlesex Sow Farm,1892,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,1543846,-78.1358,35.8568,4
+810,825,Edgecombe,1,James E. Lancaster Farm,944,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,764775,-77.7802,35.8654,4
+675,2400,Edgecombe,1,Brewer Sharpsburg Farm,3296,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2224800,-77.7836,35.8511,4
+586,1200,Edgecombe,1,Clover M Farms / Langley Farm,1898,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.7639,35.8453,4
+539,1580,Edgecombe,1,H. Johnson Farm,2717,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1464660,-77.725,35.8464,4
+637,4800,Edgecombe,1,George Crawford Farms,6985,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-77.4011,35.8544,4
+955,2150,Edgecombe,2,Blount Bros. Farm,7211,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6886450,-77.3694,35.8597,4
+778,6402,Edgecombe,4,"Davistown Farming, LLC",7628,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5934654,-77.6127,35.8137,4
+878,1920,Pitt,1,Ronald Crawford Farm,2027,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1779840,-77.4359,35.8039,4
+418,4350,Johnston,5,Brooks Creech Farm,8076,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,3375600,-78.2653,35.7892,4
+829,32000,Wilson,2,Shallington's Mills Nursery,7373,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,6112000,-77.7417,35.7792,4
+830,1690,Edgecombe,3,Drake Farms,1888,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1566630,-77.6417,35.8114,4
+262,100,Johnston,4,Wilbur Creech Farm,3999,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1047800,-78.2433,35.7683,4
+331,3631,Nash,2,Spring Branch Farm,8513,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,2817656,-78.2278,35.7647,4
+674,4400,Edgecombe,2,Triple M Farms,6052,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4078800,-77.585,35.7647,4
+301,4200,Nash,4,Three G Farms,12935,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-78.2361,35.7672,4
+632,11520,Pitt,1,Bobby Harris Farm,16897,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-77.4428,35.733,4
+878,10560,Pitt,1,Carson and Manning Farm,11149,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9789120,-77.379,35.7408,4
+790,1446,Pitt,1,Summitt Sow Farm,5863,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-77.3451,35.756,4
+278,263,Wake,2,Lake Wheeler Rd Field Lab-Swine Educational Unit,9913,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2755714,-78.6764,35.73,4
+310,4000,Johnston,4,Barham Farms Home Farms 48A,41329,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.3156,35.7047,4
+696,425,Wilson,2,Bill's Pig Farm,6398,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,4453150,-78.0756,35.7266,4
+923,1760,Pitt,1,Corbett Farms,1768,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.5695,35.7244,4
+310,200,Johnston,4,Barham Farms Home Farms 48A,2491,Swine - Gilts,NC Dept. of Environmental Quality,Active,772200,-78.3156,35.7047,4
+262,5040,Johnston,4,Three G Two,3674,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,962640,-78.2665,35.6943,4
+262,6480,Johnston,4,Three G Two,22927,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6006960,-78.2665,35.6943,4
+737,180,Wilson,5,Sharp Farms,2559,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1886040,-78.115,35.7086,4
+653,898,Wilson,1,Bill & Lawrence LLC,1275,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,832446,-78.0697,35.7247,4
+834,3248,Wilson,1,Kathy Eatmon #1,3610,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3010896,-77.8113,35.7052,4
+707,4339,Pitt,1,Outback Farms LLC,19657,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13897817,-77.5504,35.6885,4
+715,4330,Pitt,1,Burnette Farms,1157,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,827030,-77.6319,35.6849,4
+248,334,Johnston,2,Central Crops Research Station,1248,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,309618,-78.5149,35.6707,4
+708,1160,Greene,1,Bailey Swine Farm,1519,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1075320,-77.7044,35.6467,4
+732,5760,Pitt,1,Chester Ray Norville Farm,7294,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.6761,35.6394,4
+541,3860,Pitt,1,Evans & Sons Farm #1,1363,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,737260,-77.588,35.6465,4
+657,1700,Wilson,1,BNJ Farm,9990,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,6563700,-77.8823,35.6204,4
+1138,3400,Greene,1,Stantonsburg Farm,9570,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10890200,-77.7722,35.5917,4
+884,2600,Greene,1,Holloman Farm,9421,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8327800,-77.6835,35.6282,4
+787,2840,Pitt,2,Evans & Sons Topping,3345,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2632680,-77.5894,35.6296,4
+434,3720,Johnston,1,George Clifford Uzzle Farm,7946,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3448440,-78.3897,35.5844,4
+284,5100,Johnston,2,Donald E. Byrd,3430,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,974100,-78.368,35.5958,4
+1179,2000,Wayne,3,Ballance Brothers Partnership,5433,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.9283,35.5736,4
+1138,400,Greene,1,Stantonsburg Farm,67,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-77.7722,35.5917,4
+989,5830,Pitt,4,J.R. Lewis Farms,1126,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1113530,-77.6502,35.6131,4
+962,1500,Pitt,3,Allen Farm,4994,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4804500,-77.5478,35.5994,4
+787,3500,Wayne,1,Hooks Nursery,849,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,668500,-78.005,35.5708,4
+1179,100,Wayne,3,Ballance Brothers Partnership,327,Swine - Gilts,NC Dept. of Environmental Quality,Active,386100,-77.9283,35.5736,4
+873,2000,Wayne,2,Joyner Daniels,7338,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.8874,35.5877,4
+873,480,Wayne,2,Joyner Daniels,2123,Swine - Gilts,NC Dept. of Environmental Quality,Active,1853280,-77.8874,35.5877,4
+904,7500,Greene,2,Shirley Farm,7691,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6952500,-77.7056,35.5664,4
+608,4160,Greene,1,Gay Farms,1307,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,794560,-77.6808,35.5703,4
+733,3900,Johnston,3,Ben Youngblood Farm,4932,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3615300,-78.3483,35.5544,4
+725,5200,Wayne,1,Maranatha Nursery #1 & #2,1370,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.0686,35.5492,4
+1207,4756,Greene,1,Crossroads Farm,3058,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,3690656,-77.8181,35.5542,4
+1061,2200,Greene,2,J.L.M. Parker Farms LLC,8006,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,8494200,-77.6347,35.5353,4
+708,8400,Pitt,1,Marion Mills Farm,10998,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7786800,-77.4693,35.5405,4
+720,5760,Johnston,2,"ER Farms, LLC",7416,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1556,35.5264,4
+924,60000,Wayne,2,White Oaks Farm Inc,50390,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,46560000,-77.9231,35.5161,4
+1250,3521,Greene,1,Al Murray Farm,2186,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,2732296,-77.7917,35.5486,4
+676,9792,Greene,2,Cunningham Farms #1 & 2,13428,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-77.7403,35.5317,4
+638,3466,Greene,1,Hinson Farm,5036,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3212982,-77.6622,35.5464,4
+1142,1636,Greene,1,Thomas Hardy Farms,4589,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5240108,-77.5819,35.5247,4
+1040,11157,Pitt,3,Hardy Moye Farm,2049,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2130987,-77.549,35.54,4
+475,600,Johnston,1,Glenn Honeycutt Farm,1171,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,556200,-78.5361,35.5185,4
+408,580,Johnston,1,Crantock Farm,1318,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,537660,-78.4589,35.5261,4
+446,1291,Johnston,4,Spring Meadow Farm,9271,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4135073,-78.3375,35.5439,4
+1154,6400,Wayne,2,Hinson Nursery #1 & #2,1059,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.9319,35.5414,4
+1205,7000,Wayne,2,N & W Pig Farms,1110,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1337000,-77.9078,35.5311,4
+880,5760,Wayne,1,Yelverton Farms Ltd,6068,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8633,35.5067,4
+1178,9626,Greene,1,Grace Farm,6341,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,7469776,-77.8,35.5114,4
+1004,3840,Greene,2,Jack & Jerry Cunningham Farms,3546,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.7278,35.5456,4
+875,4896,Greene,1,Roy Jones Farm,5187,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.7239,35.5353,4
+1120,3840,Greene,1,Cunningham Hog Farm,3178,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.6941,35.53,4
+1160,5869,Greene,1,Everette Murphrey Farm,3926,Swine - Wean to Finish,NC Dept. of Environmental Quality,Expired,4554344,-77.5619,35.5333,4
+601,8044,Johnston,5,John Langdon Farm,12407,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7456788,-78.549,35.4975,4
+990,8569,Greene,4,Carson/Collyn Beaman Farm,6717,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,6649544,-77.6903,35.5169,4
+1185,10500,Greene,3,Sugg Farm,8214,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9733500,-77.6381,35.5244,4
+1083,4896,Greene,3,Lee T. Jones Farm,4191,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.5881,35.525,4
+1005,1446,Greene,1,M & M Hog Farm,4609,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-77.5336,35.5013,4
+775,12050,Pitt,3,Rex Smith Farms Inc,14413,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11170350,-77.4959,35.4858,4
+530,5200,Johnston,2,"M.R. Langdon & Sons, Inc.",1874,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.5503,35.5044,4
+536,2495,Johnston,2,Lassiter Swine Farm,4315,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2312865,-78.4633,35.4767,4
+875,2600,Greene,1,Charles Chapman Nursery #1 - Nahunta #1,568,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.7717,35.5,4
+891,5760,Greene,1,Flynn Grove,5993,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.7028,35.5083,4
+1185,3000,Greene,1,Edwards & Edwards Farm,2347,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2781000,-77.6425,35.4986,4
+1026,9000,Greene,1,Vandiford Swine Farm,8132,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8343000,-77.5989,35.5158,4
+1054,6960,Greene,3,Halfmoon Pigs,1261,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1329360,-77.5467,35.4867,4
+398,12960,Johnston,6,Black Creek Nursery,6220,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2475360,-78.5845,35.4723,4
+502,1750,Johnston,2,Creech Farm,3232,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1622250,-78.5164,35.4654,4
+753,1050,Johnston,1,Dwight Mayo - Daughtry Farm,1293,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,973350,-78.2861,35.4611,4
+758,2880,Wayne,1,C&G Hog Farm,3522,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.0928,35.4731,4
+1035,3200,Wayne,1,Daw & Son Farm,591,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.9433,35.4736,4
+1187,3200,Wayne,1,C&G Swine,515,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.8894,35.4922,4
+986,840,Wayne,1,Randy Gray's Isolation Farm,790,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,778680,-77.8287,35.4655,4
+1277,7920,Wayne,2,Beaver Branch Farm,5749,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-77.8213,35.5042,4
+747,4320,Greene,1,"Gray Family Farms, Inc.",5361,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-77.8028,35.4778,4
+1088,6300,Greene,1,Double C Farms,1106,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1203300,-77.7733,35.48,4
+1102,3280,Greene,2,Blizzard Nursery & Finishing,568,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,626480,-77.7408,35.4911,4
+1013,2169,Greene,1,Linwood Hall Sow Farm,6858,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6947307,-77.7517,35.4744,4
+1165,4000,Greene,1,Rick Harper Farm,3183,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-77.6583,35.4842,4
+541,7680,Greene,1,Vandiford Swine #2,13160,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7119360,-77.6103,35.4894,4
+280,2000,Cabarrus,1,Porter Farms,22879,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-80.4444,35.3519,5
+629,800,Stanly,1,Huneycutt Pig Farms,243,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,152800,-80.375,35.3083,5
+515,3600,Anson,6,Fox Ridge Complex,22390,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11530800,-80.15,35.1333,5
+1253,1200,Union,1,Cox Brothers Farms - 601S Farm,10035,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,12573600,-80.4197,34.8564,5
+252,880,Anson,1,T & T Farm,3237,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,815760,-80.1678,34.8501,5
+1509,8600,Union,4,Fisher Farms,5283,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7972200,-80.4917,34.8333,5
+1105,2200,Anson,1,White Rock Farms,6377,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7046600,-80.295,34.8223,5
+514,2478,Anson,1,Twin Oaks Farm,15442,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7937034,-80.2555,34.8152,5
+398,12960,Johnston,6,Black Creek Nursery,6220,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2475360,-78.5845,35.4723,6
+408,543,Johnston,1,Barber McLamb Farm,1234,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,503361,-78.5639,35.4468,6
+502,1750,Johnston,2,Creech Farm,3232,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1622250,-78.5164,35.4654,6
+557,660,Johnston,1,Ivey Johnson Farm,1098,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,611820,-78.4832,35.457,6
+753,1050,Johnston,1,Dwight Mayo - Daughtry Farm,1293,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,973350,-78.2861,35.4611,6
+772,3360,Johnston,1,M & M Farms,4035,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3114720,-78.2542,35.45,6
+1007,1224,Wayne,2,Milton G. Ingram Farm,1127,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1134648,-78.1264,35.4531,6
+758,2880,Wayne,1,C&G Hog Farm,3522,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.0928,35.4731,6
+550,2880,Wayne,1,River Land,4854,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.0675,35.4578,6
+1035,3200,Wayne,1,Daw & Son Farm,591,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.9433,35.4736,6
+1025,4320,Wayne,2,Exum Mills Sow,13499,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13836960,-77.8778,35.4653,6
+986,840,Wayne,1,Randy Gray's Isolation Farm,790,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,778680,-77.8287,35.4655,6
+798,2880,Greene,2,Nathan Smith Farm,3346,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.7922,35.4728,6
+1013,2169,Greene,1,Linwood Hall Sow Farm,6858,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6947307,-77.7517,35.4744,6
+1121,6480,Greene,1,Hull Road Farm,4486,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,5028480,-77.6356,35.4714,6
+1186,6720,Greene,2,Wood Farms,5252,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6229440,-77.5806,35.4783,6
+1288,1920,Greene,1,"Moye Swine, LLC",1382,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1779840,-77.5578,35.4633,6
+785,8621,Greene,1,Sandy Ridge Farm,8522,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,6689896,-77.4992,35.4731,6
+775,12050,Pitt,3,Rex Smith Farms Inc,14413,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11170350,-77.4959,35.4858,6
+375,6080,Johnston,1,C&S Johnson,3097,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5161,35.4394,6
+913,2880,Johnston,1,Danny Kornegay Farm,2924,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.1667,35.4267,6
+1036,1121,Wayne,2,1900 Bridgers Place,1003,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1039167,-78.1183,35.4514,6
+635,1440,Wayne,1,L. Greg Smith Jr,2102,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-78.0819,35.4483,6
+1494,5900,Greene,1,Triple S Swine Farm,3661,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5469300,-77.8153,35.4364,6
+1214,1500,Greene,1,Cross Creek Farm,1145,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1390500,-77.8169,35.4569,6
+1179,2169,Greene,1,Sandhill Sow Farm,5893,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6947307,-77.7481,35.4367,6
+1079,5000,Greene,1,M & M Swine Farm,4296,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4635000,-77.7289,35.4408,6
+926,3670,Greene,1,"Harper Brothers 1, 2, 3",3674,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3402090,-77.7131,35.4372,6
+340,1600,Greene,1,Earl Barrow Farm,4362,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1483200,-77.6542,35.4425,6
+1638,3000,Greene,1,Jimmy Dail Farm,1698,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2781000,-77.5806,35.4533,6
+1189,10055,Greene,5,Dirt Road Farm,6562,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,7802680,-77.5306,35.4411,6
+1249,3840,Greene,1,Wood Lyon,2850,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.5236,35.4556,6
+1240,4160,Greene,1,Triple M Farms 3,641,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,794560,-77.5067,35.4425,6
+838,5747,Greene,1,Edward's Bridge Farm,5322,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,4459672,-77.4831,35.4386,6
+390,6080,Harnett,2,Ferrell Farms,2978,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.6404,35.4153,6
+1102,4410,Johnston,1,Mark & Pam Denning Farm 1-6,3710,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,4088070,-78.5955,35.4167,6
+852,1094,Johnston,1,Parker's Swine Farm,1190,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1014138,-78.5511,35.4153,6
+823,1836,Wayne,1,Danny Mitchell Hog Farm,2068,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1701972,-78.1222,35.4222,6
+841,2448,Wayne,1,Bruce Howell Farm,2698,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.0325,35.4219,6
+1046,5760,Wayne,1,EMS Hog Farms Inc,5105,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8744,35.4233,6
+979,2880,Wayne,1,Toby Roberts Farm,2727,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.8492,35.4278,6
+1472,2169,Greene,1,Pine Ridge Farm,4720,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6947307,-77.5817,35.4011,6
+811,5025,Greene,6,Moye Farm,19846,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,16095075,-77.5469,35.4247,6
+1382,5746,Greene,2,Little Creek Hog Farm,3226,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,4458896,-77.5011,35.4347,6
+439,3840,Pitt,1,Dick Mills and Son Farm,8109,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.3574,35.4213,6
+921,987,Johnston,1,T & S Denning Farm,993,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,914949,-78.5767,35.4043,6
+732,2940,Johnston,1,Carol J. Lee Farm,3723,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.4222,35.4042,6
+526,2940,Johnston,1,Terry Barefoot Farm,5181,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.3749,35.3919,6
+608,2880,Johnston,1,Owen Kornegay Farm,4391,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.1769,35.3894,6
+914,5760,Wayne,1,Bryant Worley Farm,5842,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1278,35.4139,6
+1402,2880,Wayne,1,Chris Creech Farm,1904,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.8233,35.42,6
+1145,7200,Greene,1,Mr. Gordon's Farm,5829,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-77.8058,35.4125,6
+1260,6000,Greene,1,Ham Town Farm,4414,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5562000,-77.7681,35.4225,6
+726,1500,Greene,2,Pork Company Farm,1915,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1390500,-77.6577,35.3921,6
+726,11225,Pitt,5,Cullen Glenn Haddock Farm,14333,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10405575,-77.3506,35.3994,6
+928,3552,Johnston,2,Rickie Norris Farm,731,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.4698,35.3722,6
+796,2880,Johnston,2,J&M Hog Farm Inc,3354,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.4156,35.3775,6
+744,100,Wayne,1,Cherry Resreach Farm,1408,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1047800,-78.0311,35.3769,6
+1422,2880,Wayne,1,Roland Gray Farm,1877,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.8714,35.3883,6
+897,4896,Wayne,1,W&M Hog Farm,5060,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.8278,35.3825,6
+1338,2448,Greene,1,Warters Isolation,1696,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7906,35.3903,6
+1026,3000,Greene,1,Gary Askew Swine Farm,2711,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2781000,-77.7387,35.3936,6
+1084,2550,Greene,1,Roger Johnson Swine Farm,2181,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2363850,-77.7319,35.3847,6
+832,3672,Greene,1,S & K Farms Inc,4091,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.6747,35.3847,6
+1363,4200,Greene,1,Hardy Swine Farm,2856,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-77.6311,35.3856,6
+857,7344,Lenoir,2,"Hugo Farms, LLC Farm",7944,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.4993,35.3602,6
+705,1760,Johnston,1,"Wood Farms, Inc.",2314,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-78.4375,35.3541,6
+711,2480,Johnston,1,Roger D. Allen Farm,3233,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.3857,35.3643,6
+634,1600,Johnston,2,Sandy Ridge Pork,8083,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5124800,-78.3422,35.3533,6
+735,5320,Johnston,1,Creekside Farms,6710,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4931640,-78.3206,35.3683,6
+597,2000,Johnston,2,J.L.M. Farms LLC,10730,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.2397,35.3386,6
+725,350,Wayne,2,Boarhead AI-Lab & Isolation,1864,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,1351350,-77.8778,35.3556,6
+1453,2880,Wayne,1,Kim Gray Farm,1837,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.8719,35.3842,6
+1441,5760,Wayne,1,William Earl Cruse Farm,3705,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8333,35.37,6
+1005,4896,Greene,1,Hope Farms,4516,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.7648,35.3847,6
+1003,120,Lenoir,1,George Hill Farm,1254,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1257360,-77.7191,35.3734,6
+748,4923,Greene,2,Billy Dail Swine Farm,6101,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4563621,-77.6625,35.3758,6
+1246,4000,Greene,1,Henry Heath Farms,2976,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-77.5884,35.3789,6
+1185,5280,Greene,2,Jesse Oakes Nursery 1 & 2,851,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1008480,-77.5739,35.3839,6
+1102,2412,Johnston,1,Dismal Farms,2029,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2235924,-78.4932,35.3374,6
+388,4410,Johnston,2,Dennis Raynor,10536,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.2886,35.3472,6
+597,160,Johnston,2,J.L.M. Farms LLC,1035,Swine - Gilts,NC Dept. of Environmental Quality,Active,617760,-78.2397,35.3386,6
+970,7350,Wayne,1,Donnie Peedin Farm,7024,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6813450,-78.1581,35.3347,6
+807,4200,Wayne,1,"GLG Farms, LLC Farm",4825,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-78.1328,35.3447,6
+824,752,Wayne,1,Craig Farms,2923,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2408656,-78.1169,35.3489,6
+681,2448,Wayne,1,Vance Perkins Farms,3332,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.1042,35.3467,6
+903,5760,Wayne,1,Ham Farm,5913,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.966,35.3215,6
+606,4800,Wayne,1,Jet Nursery,1513,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,916800,-77.9561,35.3376,6
+451,2400,Craven,1,Alum Springs L.L.C.,17045,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.3932,35.3325,6
+640,8700,Johnston,1,ADJ Nursery #3,2596,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1661700,-78.4264,35.3264,6
+576,1040,Johnston,3,Harold W. Lee & Sons,18919,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,10897120,-78.3811,35.3497,6
+878,2012,Johnston,2,Battlefield Sow Farm,7340,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6444436,-78.3055,35.3289,6
+1007,2350,Wayne,2,Max & Theresa Futrell,2163,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2178450,-78.1931,35.3283,6
+789,1240,Wayne,1,George Grantham Farm,1457,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-78.1406,35.3444,6
+472,2400,Wayne,1,Craig Farm #3,16286,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.1017,35.3192,6
+829,2000,Wayne,2,Piggybank Sow,7727,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.0907,35.3105,6
+816,600,Wayne,1,Elroy Farm,2355,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,1921800,-77.9011,35.3272,6
+1316,11520,Wayne,2,Dairy Swine Farm #1 & #2,8115,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-77.83,35.3497,6
+1116,525,Lenoir,2,Wayne Rouse & Doug Hill Farm,1816,Swine - Gilts,NC Dept. of Environmental Quality,Active,2027025,-77.772,35.3201,6
+932,300,Lenoir,1,Dail Hog Farm,1243,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,1158300,-77.6976,35.3314,6
+927,1224,Lenoir,2,R. & G. Farm,1224,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1134648,-77.4509,35.3178,6
+804,6120,Johnston,4,Lee Brothers Farm,7056,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-78.4361,35.2958,6
+698,3200,Johnston,1,R & T Eldridge Farms,876,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-78.3939,35.2995,6
+476,3840,Johnston,1,Thornton Brothers 105,1541,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-78.3469,35.3067,6
+985,5760,Wayne,1,Ralph Weaver Hog Farms,5421,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1436,35.3294,6
+746,11520,Wayne,3,"P&D Farms, Inc.- Wayne Mills Finishing",14315,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-78.0678,35.3064,6
+909,2880,Wayne,1,Uzzell Swine Farm,2937,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.8456,35.3289,6
+1140,5760,Wayne,1,Roy G. Nation Swine Farm,4684,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8389,35.2883,6
+741,2880,Lenoir,1,Triple H Farm,3603,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.469,35.3133,6
+768,4896,Craven,1,"Faison Smith Farms, Inc. #2",5910,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.4225,35.3163,6
+1265,2000,Sampson,1,Savannah Hill Farms,5064,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.5423,35.2751,6
+804,4108,Johnston,4,Lee Brothers Farm,976,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,784628,-78.4361,35.2958,6
+816,4000,Johnston,1,Thornton Brothers,936,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,764000,-78.3033,35.2989,6
+1070,4320,Wayne,1,"Matthew Sanderson Farming, LLC",3743,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-78.2783,35.3078,6
+979,12240,Wayne,3,Weaver Farm sites 1-3,11590,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11346480,-78.2569,35.3208,6
+735,2880,Wayne,1,Grantham Farms 2,3632,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.2244,35.3133,6
+1010,5760,Wayne,1,Grantham Farms,5287,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.2089,35.3078,6
+1085,5760,Wayne,1,Leonard Smith Farm,4921,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1381,35.2994,6
+751,6120,Wayne,2,Wake-Kyle Farm,7554,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-78.1343,35.3255,6
+313,4160,Wayne,2,Squirrel Ridge Sow,42570,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13324480,-77.9583,35.2756,6
+650,3200,Wayne,1,Ronnie Lee Dawson Farm,940,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.9025,35.2958,6
+1223,1440,Wayne,1,William Britt Farm,1091,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.8436,35.3017,6
+395,2960,Craven,1,Steve Sanders Farm,1431,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,565360,-77.4069,35.288,6
+798,820,Craven,4,Pig Paradise,3291,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2626460,-77.3851,35.2872,6
+1090,4320,Craven,1,"Sutton Family Farm, LLC",3674,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-77.3628,35.2854,6
+641,2940,Johnston,1,CC&B Johnson Farm,4252,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.3833,35.2869,6
+535,2416,Johnston,1,David G. Herring Swine Farm,4186,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2239632,-78.3661,35.2925,6
+963,2480,Johnston,1,Sammy Britt Farm houses 7-10,2387,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.3153,35.2925,6
+752,2448,Wayne,1,J&C Farm,3018,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.2898,35.2825,6
+663,1200,Wayne,1,D.O. Bryan Farm,1678,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-78.2519,35.2828,6
+636,2448,Wayne,1,Shelton Keene  Farm 2,3568,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.2297,35.2833,6
+761,5880,Wayne,2,Double T Farms,7163,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.1717,35.2714,6
+748,7500,Wayne,3,Overman Farm Inc.,9295,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6952500,-78.1031,35.2997,6
+762,1440,Wayne,1,Gray Outlaw Farm,1752,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-78.0258,35.2783,6
+463,1400,Wayne,3,Herring Farm,2803,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1297800,-77.9186,35.2783,6
+450,4896,Lenoir,1,Woody Sutton Farm #2,10086,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.4606,35.2765,6
+750,2700,Harnett,1,Weeks Farms Inc,3337,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2502900,-78.6082,35.2564,6
+826,620,Sampson,1,Mark Barefoot,696,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,574740,-78.4807,35.259,6
+1089,4600,Sampson,1,Phillip Williams Farm,3916,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4264200,-78.4055,35.251,6
+1066,5536,Johnston,2,Jeffrey Thornton Farm,992,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1057376,-78.3742,35.2722,6
+1118,2600,Johnston,1,TDM Farm 29 (W.T. Herring 100 ac. Site),7449,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8327800,-78.34,35.2814,6
+647,2880,Wayne,1,John Dunn Farm,4126,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.2953,35.271,6
+712,3672,Wayne,1,JM Massey Farm,4781,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.29,35.2778,6
+669,5760,Wayne,1,Sandy Ridge Farm,7981,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.2533,35.2767,6
+750,4896,Wayne,2,Gerald Hollamon Farm,6051,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.1369,35.2733,6
+594,4896,Wayne,1,Norwood Head Farm,7641,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.1078,35.2703,6
+1004,4280,Wayne,3,Dexter Jackson 21-26,3952,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3967560,-78.0786,35.2478,6
+350,5600,Wayne,1,Roberts Nursery,3056,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1069600,-78.0006,35.2569,6
+579,2000,Wayne,2,Collie Sow Farm,11064,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.9116,35.2352,6
+784,11440,Lenoir,3,"Wiggins Hog Farm, Inc.",13527,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10604880,-77.8236,35.2762,6
+1218,7344,Lenoir,2,Wood Farm,5589,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.7957,35.2459,6
+1468,650,Lenoir,2,Thomas Sutton Farm,410,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,602550,-77.7577,35.2442,6
+636,1600,Cumberland,1,"Spring Meadow Farm of Cumberland Co., LLC",8058,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5124800,-78.6979,35.2204,6
+680,3960,Sampson,2,Eason Farm Inc,5398,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,3670920,-78.5333,35.2416,6
+932,2448,Sampson,1,Ronald Wooten Farm,2435,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.4615,35.2521,6
+642,2000,Sampson,2,Pork Chop Hill Farm,9978,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.3587,35.2182,6
+1218,10378,Sampson,5,Warren Swine Farms (King Farm),6612,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,8053328,-78.3234,35.2329,6
+1258,3040,Sampson,1,Minnie Edwards Farm,462,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,580640,-78.2914,35.2403,6
+1274,5280,Wayne,2,Arrowhead Farms,792,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1008480,-78.217,35.2328,6
+790,1200,Wayne,1,Archer Farms,4865,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-78.1819,35.2403,6
+774,4180,Wayne,2,Tommy Grantham Farm,5006,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3874860,-78.1297,35.2492,6
+904,1240,Wayne,2,Bobby Grady Farm,1272,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-78.0486,35.2403,6
+465,2080,Wayne,3,Eagles Nest Sow,14327,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6662240,-77.9844,35.2417,6
+465,125,Wayne,3,Eagles Nest Sow,1038,Swine - Gilts,NC Dept. of Environmental Quality,Active,482625,-77.9844,35.2417,6
+338,4000,Wayne,3,Sasser Sow Farm,37905,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-77.9347,35.2576,6
+338,320,Wayne,3,Sasser Sow Farm,3655,Swine - Gilts,NC Dept. of Environmental Quality,Active,1235520,-77.9347,35.2576,6
+1280,100,Wayne,2,Sutton Bros Inc,819,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1047800,-77.8507,35.2467,6
+1429,7200,Lenoir,1,Razorback Farms LLC,4671,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-77.8226,35.255,6
+758,1200,Lenoir,1,William Davis Farm,1468,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.6573,35.2279,6
+510,7680,Craven,2,Cedar Springs Farm,2876,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-77.4488,35.2285,6
+960,3840,Sampson,1,Weeks Farm Inc.,3708,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-78.6165,35.2227,6
+1124,16794,Sampson,7,J&W Swine Co Inc,13851,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,15568038,-78.5757,35.1861,6
+1074,16875,Sampson,3,Triple J Farms,3001,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3223125,-78.5388,35.2141,6
+1137,6890,Sampson,3,G&R Farms,5617,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6387030,-78.4157,35.2167,6
+1160,3800,Sampson,1,Circle L,626,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,725800,-78.4,35.2337,6
+642,3735,Sampson,2,Pork Chop Hill Farm,5393,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3462345,-78.3587,35.2182,6
+1197,2700,Sampson,3,P&J Farms,2091,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2502900,-78.2816,35.2314,6
+1546,2710,Sampson,1,Reginald Strickland Farm,1625,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2512170,-78.2571,35.2128,6
+878,11520,Wayne,2,Crow's Nest Farm,12163,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-78.1639,35.2383,6
+1459,4000,Wayne,2,Doug Jernigan Farms,524,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,764000,-78.0984,35.2301,6
+1459,20906,Wayne,2,Doug Jernigan Farms,13283,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,19379862,-78.0984,35.2301,6
+996,1440,Wayne,1,Shelton Lewis Farm,1340,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-78.0078,35.2342,6
+583,200,Wayne,1,Best AI - Boar,1325,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,772200,-77.9247,35.2414,6
+579,80,Wayne,2,Collie Sow Farm,533,Swine - Gilts,NC Dept. of Environmental Quality,Active,308880,-77.9116,35.2352,6
+997,5760,Wayne,1,Ward Farm,5356,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.9042,35.2139,6
+1161,5760,Wayne,1,T&D Farms,4599,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8282,35.2395,6
+1169,2640,Lenoir,1,Wesley Sutton Farm,2093,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.7683,35.2414,6
+1254,16531,Sampson,6,When Pigs Fly,2518,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3157421,-78.5648,35.2005,6
+519,2480,Sampson,1,B&L Farms,4430,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.5249,35.2162,6
+946,6160,Sampson,2,Rose Swine Farms,6036,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5710320,-78.321,35.206,6
+1412,7040,Sampson,1,Kennedy Farm #1,4622,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.2515,35.1991,6
+905,5880,Wayne,1,Strickland Farms 5-12,6023,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.1722,35.23,6
+1313,2160,Duplin,1,G&M Swine Farm,1525,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2002320,-78.0369,35.1903,6
+609,2000,Wayne,2,Horsepen Sow Farm,10519,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.9856,35.2,6
+551,1975,Wayne,2,Leslie Ray Whitted Farm,3323,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1830825,-77.9872,35.2103,6
+1183,210,Wayne,1,Parks Farms,1860,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2200380,-77.9561,35.2089,6
+928,1100,Wayne,1,Ben Outlaw Hog Farm,1099,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1019700,-77.8939,35.2189,6
+645,3790,Wayne,2,Cedar Lane Hog Farm,5447,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3513330,-77.8506,35.2131,6
+946,930,Wayne,1,Richard Grady Farm,911,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,862110,-77.8283,35.201,6
+1016,7200,Lenoir,3,Sandy Creek Farms,6569,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-77.7859,35.2065,6
+934,1000,Lenoir,1,Moody Farms LLC,3429,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3203000,-77.6963,35.1938,6
+787,7344,Lenoir,2,Pitchfork Farms,8650,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.6137,35.1817,6
+738,4896,Jones,1,Woody Sutton Farm #1,6150,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.5,35.2,6
+602,2880,Jones,1,Stillwater Farm,4435,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.4767,35.2011,6
+679,6080,Cumberland,1,Larry & Patricia's Pig Nursery,1710,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.6771,35.1844,6
+1093,2700,Sampson,3,R.M. Jackson Farm,2290,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2502900,-78.5332,35.1878,6
+989,6300,Sampson,0,Longshot Nursery,1217,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1203300,-78.4509,35.1805,6
+1060,2756,Sampson,2,TDM #5,8328,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8827468,-78.4188,35.1994,6
+999,2480,Sampson,1,J. Sullivan & Son Farm,2301,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.192,35.2006,6
+1075,3040,Sampson,1,Jay Sullivan Farm,540,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,580640,-78.1826,35.205,6
+1134,2400,Sampson,2,"Waller Farms, Inc.",6779,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.174,35.1939,6
+609,284,Wayne,2,Horsepen Sow Farm,1801,Swine - Gilts,NC Dept. of Environmental Quality,Active,1096524,-77.9856,35.2,6
+926,160,Wayne,2,Grant Sow,667,Swine - Gilts,NC Dept. of Environmental Quality,Active,617760,-77.9472,35.1967,6
+820,5760,Lenoir,2,Parker Price Farm,6512,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8181,35.1982,6
+870,800,Lenoir,1,Doug Herring Farm,852,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,741600,-77.7274,35.1879,6
+826,6480,Lenoir,2,Jack Grady Farm,7272,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6006960,-77.6694,35.1715,6
+1168,3144,Craven,2,McCoy Cattle Farms,2495,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2914488,-77.3436,35.1843,6
+841,7350,Cumberland,1,R&C Swine,8102,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6813450,-78.6903,35.1699,6
+1124,3672,Sampson,1,"L&L Farms, Inc.",3028,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5021,35.1675,6
+1139,3680,Sampson,1,Billy Ray Daughtry,2995,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3411360,-78.4331,35.1825,6
+880,5760,Sampson,1,"Rosin Hill Farms, Inc.",6068,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,5339520,-78.4028,35.2006,6
+1039,6480,Sampson,2,JH Farm,5781,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6006960,-78.4025,35.1884,6
+587,11560,Sampson,4,C.B. Barefoot Farms 1-16,18256,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10716120,-78.3586,35.1795,6
+875,800,Sampson,1,Whitfield Livestock #2,848,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,741600,-78.306,35.1844,6
+842,6800,Sampson,1,S-1 and S-2,25867,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,21780400,-78.2387,35.173,6
+1107,13280,Sampson,3,Sonny Gold / Sonny Swine,11121,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,12310560,-78.1871,35.1866,6
+945,620,Duplin,1,Whitted-King Farm,608,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,574740,-78.1372,35.1717,6
+752,14700,Duplin,4,Dexter Jackson Farm,18121,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13626900,-78.13,35.1467,6
+1643,4512,Duplin,1,Britt Sow Farm,8796,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14451936,-78.0694,35.155,6
+1651,4410,Duplin,1,Ricky Kornegay Farm,2476,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.0622,35.1553,6
+1213,3520,Duplin,1,Cotton Top Farms,2690,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-78.0131,35.1881,6
+926,2000,Wayne,2,Grant Sow,6918,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.9472,35.1967,6
+1333,1200,Duplin,1,James B. Rouse Farm,835,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.8489,35.1705,6
+1164,3200,Wayne,1,Beulahland Farm,525,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.8347,35.185,6
+842,6000,Lenoir,2,Forrest Rouse Farm,6606,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5562000,-77.7972,35.1793,6
+897,550,Lenoir,2,Lenoir Swine Breeders Inc,1964,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,1761650,-77.698,35.1833,6
+1096,5280,Jones,2,Sycamore Farms Inc / Roberson Family Farms,4466,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-77.5106,35.1614,6
+578,6400,Jones,2,"Oink Heaven, Inc.",2115,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.4706,35.1664,6
+682,8820,Cumberland,1,Larry Eason Hog Farm Inc.,11988,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8176140,-78.6526,35.1261,6
+1073,3840,Sampson,1,Houston Warren Farm,684,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-78.4959,35.1652,6
+913,3672,Sampson,1,Jimmy Best Farm,3728,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4438,35.1606,6
+980,3672,Sampson,1,Triple T Farms,3473,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4332,35.169,6
+1012,3672,Sampson,1,Larry Naylor Farm,3364,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4034,35.1583,6
+766,2560,Sampson,1,Joseph Casey Farm,3098,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2373120,-78.3353,35.17,6
+1033,2880,Sampson,1,Herbert G Bowden Farm,2584,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.3242,35.1641,6
+806,4000,Sampson,2,J.D. Teachey Sow Farm A & B,15896,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.1908,35.1373,6
+1643,500,Duplin,1,Britt Sow Farm,58,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,95500,-78.0694,35.155,6
+1360,1240,Duplin,2,Oliver Faulk Sr Farm,845,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-78.0372,35.1478,6
+1016,12800,Duplin,3,Steve Grady Nursery,2406,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2444800,-77.9944,35.1461,6
+800,6400,Duplin,2,T&C Rose #1&2,1528,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.9631,35.1492,6
+890,4740,Duplin,4,D. McKinley & Jerry Price Farm 2,4937,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4393980,-77.9014,35.1472,6
+718,1083,Duplin,2,"Triple B Hog Farms, LLC",4831,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3468849,-77.8819,35.15,6
+846,3672,Duplin,1,S & M Farm,4024,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.8558,35.1527,6
+1051,11520,Lenoir,2,LC Farm,10161,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-77.7993,35.1645,6
+758,3360,Lenoir,1,Benson Hog Farm,847,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,641760,-77.7236,35.1591,6
+1067,1880,Lenoir,2,Barwick Hog Farm Inc / Home Farm,1633,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1742760,-77.7057,35.1692,6
+684,2240,Lenoir,1,Marths Smith Farm,3036,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2076480,-77.5796,35.1541,6
+609,1600,Jones,2,"Sasser's Mill Livestock, Inc.",2435,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1483200,-77.4417,35.1417,6
+609,2400,Jones,2,"Sasser's Mill Livestock, Inc.",12623,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.4417,35.1417,6
+661,3014,Sampson,1,C & C Finishing Farm,4227,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2793978,-78.6392,35.1274,6
+644,960,Sampson,1,Wayne Wrench Farm,5756,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,3706560,-78.5516,35.1418,6
+1066,8100,Sampson,1,ADJ Nursery #2,1451,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1547100,-78.5295,35.1338,6
+1003,5880,Sampson,2,Gary Baggett & Son,5434,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.4725,35.1408,6
+996,3672,Sampson,1,Tammy Peterson Farm,3418,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4357,35.1452,6
+942,7985,Sampson,2,"James Naylor Farm, James F. Naylor Farm, Robert Naylor #3",7858,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7402095,-78.4001,35.156,6
+701,12860,Sampson,3,C&B Farms 1-20,17006,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11921220,-78.3518,35.1659,6
+944,2940,Sampson,1,Kenneth Bradshaw Farm,2887,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.3455,35.141,6
+664,2899,Sampson,3,Ray Pate Farm,4047,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2687373,-78.2918,35.1441,6
+893,7350,Sampson,1,Danny K. Bass Farm 25-34,7630,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6813450,-78.2737,35.1632,6
+1150,2480,Duplin,1,Lewis G. Smith Farm,1999,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-77.9328,35.1264,6
+1002,1440,Duplin,1,David Price Farm,1332,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.8405,35.1525,6
+773,5760,Duplin,1,Jordan Farm,6908,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8538,35.1457,6
+782,4848,Duplin,1,Dexter Rouse Farm,5747,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4494096,-77.7994,35.145,6
+903,1200,Lenoir,1,We Dig Pigs,4256,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-77.7626,35.135,6
+584,3520,Lenoir,1,Ralph Humphrey Farm,5587,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.7275,35.1334,6
+847,11300,Lenoir,4,Henry Blizzard Farm,12367,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10475100,-77.6814,35.1614,6
+1068,960,Lenoir,5,"Morgan Farms, Inc.",2879,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3074880,-77.6669,35.1379,6
+645,2400,Lenoir,1,Zimmerman Farm,11918,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.5959,35.1315,6
+536,7680,Jones,2,No-Name #1 & 2,2737,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-77.5319,35.125,6
+903,7200,Jones,1,Moore Brothers - Beaver Creek Farm,7391,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-77.4744,35.1394,6
+443,1832,Jones,3,Rosewood Swine Farms LLC,13246,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5867896,-77.3382,35.1256,6
+487,7040,Cumberland,3,Collier Farms Inc,13401,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.646,35.1158,6
+743,3672,Sampson,1,J & J Butler Farm,4581,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5593,35.1192,6
+1153,4800,Sampson,1,5M Farms,795,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,916800,-78.5055,35.1331,6
+1018,6120,Sampson,3,Tommy Naylor Farm #1 & #2,5573,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-78.4503,35.1346,6
+557,6120,Sampson,2,Anthony Naylor #1 & #2,10185,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-78.3878,35.146,6
+974,2940,Sampson,1,Darden Farms Finishing,2798,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.3571,35.1323,6
+1238,1250,Sampson,1,Sinclair Sow Farm,3234,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4003750,-78.3491,35.118,6
+1054,2880,Sampson,1,Warren Farming Company-McLamb Farm,2533,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.2965,35.1262,6
+840,3920,Sampson,2,"Quarter D Farms, Inc.",4326,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3633840,-78.2689,35.1287,6
+630,5760,Sampson,3,Thorton Swine Farm Bldgs. 1-8 & new farm,8475,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.2634,35.1444,6
+888,3720,Sampson,2,Double J Hog Farm,3883,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3448440,-78.2446,35.1338,6
+971,3927,Sampson,1,Farm #10,12954,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-78.1905,35.1088,6
+818,1108,Duplin,0,Mt. Olive Livestock,1256,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1027116,-78.1014,35.1189,6
+1076,15600,Duplin,3,"Ralph Britt Nurseries Sites 1, 2 & 3",2769,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2979600,-78.0708,35.1267,6
+1482,6155,Duplin,2,Byard Kornegay Farm,3850,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5705685,-78.0472,35.1439,6
+1191,500,Duplin,1,"Earth Right Farms, Inc.",80,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,95500,-78.0172,35.1308,6
+1191,2600,Duplin,1,"Earth Right Farms, Inc.",6992,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8327800,-78.0172,35.1308,6
+1012,6080,Duplin,2,Jack Alphin Farm 1-9,5569,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5636160,-77.9736,35.1164,6
+1059,6400,Duplin,2,Diamond J Farms,1154,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.9569,35.1275,6
+783,6448,Duplin,1,Richard Waller Farm,7634,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5977296,-77.8825,35.1381,6
+681,6400,Duplin,2,Albertson Farm,8712,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.8246,35.1345,6
+761,10560,Duplin,3,Hog Heaven/Triple M Farms,12864,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9789120,-77.7989,35.1278,6
+955,2400,Lenoir,2,Morris Barwick Farm,2330,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2224800,-77.7041,35.1306,6
+980,7040,Lenoir,2,Clarence Smith Finishing,6659,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-77.6739,35.132,6
+739,7680,Jones,2,W&P Farms Inc,1985,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-77.4,35.1064,6
+945,9120,Sampson,3,Tyndall's Farm,1843,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1741920,-78.6076,35.0908,6
+954,1138,Sampson,1,J. Thomas Howard & Sons Farm - Sow,3821,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3645014,-78.5658,35.099,6
+788,6080,Sampson,1,McPhail Nursery Farm,1474,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5307,35.1073,6
+1011,8044,Sampson,4,Scott McLamb #1 & #2 & Robert McLamb,7376,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7456788,-78.4928,35.1222,6
+882,2460,Sampson,2,Naylor Swine 1&2 (Norshan Finishing),2586,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2280420,-78.4547,35.1137,6
+1102,6000,Sampson,3,John O. Royal #1-8,5047,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5562000,-78.4263,35.1134,6
+551,8797,Sampson,4,L & M Daughtry Inc.,14800,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8154819,-78.3813,35.1241,6
+1123,3920,Sampson,2,"CNC Farms, Inc.",3236,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3633840,-78.3342,35.11,6
+884,1680,Sampson,4,Felton Hobbs Farm,363,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,320880,-78.3033,35.1092,6
+1103,4070,Sampson,2,Foster Farm,3421,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3772890,-78.2855,35.1138,6
+963,3600,Sampson,2,PED Finishing Farm,3465,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3337200,-78.2734,35.1162,6
+808,3920,Sampson,2,B&J Farm,4497,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3633840,-78.2538,35.1031,6
+1292,2300,Duplin,1,Camellia Farms,5702,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7366900,-78.1058,35.1056,6
+1292,120,Duplin,1,Camellia Farms,359,Swine - Gilts,NC Dept. of Environmental Quality,Active,463320,-78.1058,35.1056,6
+839,4160,Duplin,3,Quinn Sow,15881,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13324480,-78.0708,35.1069,6
+775,2940,Duplin,1,Keith Pate Farm,3517,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.0506,35.1092,6
+1254,115,Duplin,3,Sullivan Farm,961,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1204970,-77.9306,35.1069,6
+1169,6400,Duplin,1,WK II,5075,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.8964,35.1269,6
+1041,11550,Duplin,1,Outlaw Farms,2119,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2206050,-77.8833,35.1122,6
+460,3552,Duplin,1,Mark Harper Farm,1475,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.84,35.1033,6
+627,3520,Duplin,1,Aaron Smith New,5204,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.8264,35.1139,6
+926,1440,Duplin,1,Tuckahoe Farms,1442,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.7561,35.1131,6
+1074,5280,Lenoir,1,"D & O Farms, LLC",4557,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-77.7499,35.1101,6
+1078,6500,Lenoir,3,Pig Palace,1152,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1241500,-77.7069,35.0888,6
+875,4800,Lenoir,1,William Hawkins Farm,5085,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-77.6785,35.1072,6
+721,2500,Lenoir,2,South Pork,3214,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2317500,-77.6651,35.1143,6
+912,2700,Lenoir,8,"Owl Pond, Heath Farm & Hog City",9483,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8648100,-77.6753,35.1028,6
+599,2640,Lenoir,1,Donald E. Taylor Farm,4086,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.6309,35.1166,6
+526,6400,Lenoir,1,"Five Farms, LLC",11279,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.5728,35.1068,6
+386,4000,Lenoir,1,MD Robinson Farm #2,9606,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-77.5901,35.1144,6
+698,6338,Jones,2,Farm # 3505 & 3706,29084,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,20300614,-77.4208,35.0625,6
+760,150,Sampson,0,Starling Farm,2068,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1571700,-78.6442,35.0804,6
+1114,5226,Sampson,1,Stephen Howard Farm,4349,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4844502,-78.5597,35.0919,6
+764,6400,Sampson,1,Wendy Creek Hog Farm,1600,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.5313,35.0691,6
+1024,3100,Sampson,1,Spell and Sons LLC,2806,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2873700,-78.4971,35.0878,6
+640,1446,Sampson,1,Norshan Farm (Sow),7237,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-78.4659,35.0985,6
+1004,3520,Sampson,1,College Fund Farm,3250,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-78.4603,35.0845,6
+1074,1410,Sampson,2,Running Branch #2,1217,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1307070,-78.4071,35.0938,6
+642,5880,Sampson,1,"Tyndall Hog & Chicken Farm, Inc.",8490,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.3689,35.0967,6
+583,4000,Sampson,2,P-23,21976,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.3745,35.1092,6
+531,5880,Sampson,2,Darden Farms,10265,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.3007,35.0923,6
+1134,5880,Sampson,2,Brewer Hog Farm 1-8,4807,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.2679,35.1014,6
+1284,6480,Sampson,2,Millbrook Farms Inc.,4678,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6006960,-78.202,35.0865,6
+1493,2000,Duplin,1,Farm #20 / 3620,4291,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.1378,35.0953,6
+687,5820,Duplin,1,Carroll & Avice Jackson Farm #1,7853,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5395140,-78.0275,35.0972,6
+1021,14391,Duplin,4,J.E. Grady Farms #1 - 4,13066,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13340457,-77.9492,35.0964,6
+945,2880,Duplin,2,Bluetick Farm,2825,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.9255,35.0865,6
+1148,1196,Duplin,1,Kornegay Farms,966,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1108692,-77.8883,35.0969,6
+730,4896,Duplin,2,Paradise Hog Farm & Camp Branch,6217,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.8628,35.0869,6
+562,4348,Duplin,2,Brent & Evelyn Davis Farm,7172,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4030596,-77.82,35.0969,6
+1132,4896,Duplin,1,Faison Smith Farm,4009,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.7903,35.0897,6
+1136,3950,Duplin,2,Jonathon & Jerald Harper Farm,3223,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3661650,-77.7833,35.0986,6
+891,4763,Duplin,1,Romeo Weston Farm,1021,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,909733,-77.7544,35.0833,6
+1013,5700,Lenoir,2,Jonestown Hog Farm LLC,5216,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5283900,-77.6528,35.0781,6
+713,7854,Jones,2,Farm # 3507 & 3508,35282,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,25156362,-77.5658,35.0781,6
+767,600,Jones,1,Robert Cox Green Farm,2506,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,1921800,-77.445,35.0686,6
+1100,3520,Jones,1,Triple K Farms - 2,2966,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.3947,35.0717,6
+694,735,Sampson,1,D & K Farm,982,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,681345,-78.6019,35.0734,6
+953,5580,Sampson,1,McPhail Farms,1118,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1065780,-78.5541,35.0701,6
+938,9080,Sampson,3,Earl Honeycutt Farm,1849,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1734280,-78.4899,35.0578,6
+1042,6978,Sampson,1,Stokes D McKoy Farm,6208,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6468606,-78.4581,35.0651,6
+1005,735,Sampson,1,D&A Naylor,678,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,681345,-78.4642,35.0746,6
+1248,480,Sampson,1,Lindsey Pope House #9,357,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,444960,-78.4078,35.071,6
+1105,5145,Sampson,2,B&B Tyndall Farm,4316,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4769415,-78.3914,35.0809,6
+601,8820,Sampson,2,Pope & Son Houses #1-8 & 10-13,13604,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8176140,-78.3797,35.0775,6
+811,2400,Sampson,1,2702,9479,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.3326,35.0882,6
+1063,5760,Sampson,2,King 9-16,5023,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.2623,35.079,6
+1065,6400,Duplin,2,Pork KROP Inc Sites 1 & 2,5571,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.125,35.0639,6
+902,3000,Duplin,1,Thomas Wilson Farm,3083,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2781000,-78.1083,35.0722,6
+1123,11520,Duplin,1,Sansanqua Farms,9509,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-78.0636,35.0786,6
+701,15920,Duplin,5,Friendship,21053,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14757840,-78.0477,35.0878,6
+818,5880,Duplin,2,Gordan Rouse Ivey Farm,6664,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-77.9839,35.0886,6
+762,1860,Duplin,1,Dail Farm Inc,2263,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1724220,-77.9406,35.0758,6
+922,3200,Duplin,1,Elsie and Nick Herring Nursery,663,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.8969,35.0625,6
+649,3520,Duplin,1,MKM Farms,5028,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.8653,35.08,6
+536,6000,Duplin,1,Freeman Murphy Farm,2138,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1146000,-77.85,35.0767,6
+409,1760,Duplin,1,K & T Farm,822,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,336160,-77.8389,35.0758,6
+1074,11016,Duplin,3,OK Hog Farm #1 - 3,9508,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-77.7917,35.0692,6
+732,5420,Duplin,3,Jimmy Britt Farm,6864,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5024340,-77.7533,35.0792,6
+907,1440,Lenoir,1,Faith Farms,1472,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.7085,35.0751,6
+642,11933,Jones,1,Stilley Farm,17230,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11061891,-77.5273,35.0638,6
+459,1200,Sampson,1,James Frank Williams,499,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,229200,-78.6488,35.0456,6
+816,3672,Sampson,1,Tyndall & Sons Farm,4172,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5737,35.061,6
+954,2448,Sampson,1,Honeycutt & Honeycutt,2379,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.5491,35.0605,6
+1017,2448,Sampson,1,Robert Holland Farm,2231,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.5234,35.0436,6
+1063,4880,Sampson,1,Franklin Lindsay Farm,4256,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4523760,-78.4142,35.0528,6
+910,8700,Sampson,1,Randy Tyndall Farm,1826,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1661700,-78.3879,35.0429,6
+324,6080,Sampson,1,James Herring Farm,3584,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.3639,35.0312,6
+1176,5680,Sampson,3,"Zack McCullen Farm1-4, 7-10",4477,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5265360,-78.3027,35.0472,6
+892,1860,Sampson,1,D&Z Farms,1933,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1724220,-78.3111,35.058,6
+923,6400,Sampson,1,Ray Gainey,1324,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.2865,35.0571,6
+880,5760,Sampson,2,King 1 - 8,6068,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.2651,35.0736,6
+969,1400,Sampson,0,Farm 2148,5578,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,5405400,-78.2069,35.059,6
+1044,10496,Sampson,1,Farm 2039,9320,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9729792,-78.2154,35.072,6
+1042,7040,Duplin,1,"Jim Grady and Sons, Inc.",6263,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.0678,35.0653,6
+983,7200,Duplin,2,S & J Farms #2,6790,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-78.0531,35.0697,6
+701,3500,Duplin,2,Hairr I Sow Farm,15992,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.0167,35.0683,6
+787,12960,Duplin,3,Goshen Ridge Farms,15265,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,12013920,-77.9694,35.0758,6
+836,11016,Duplin,4,Bell Enterprises Inc. Farm #2-4,12215,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-77.9569,35.0736,6
+471,2411,Duplin,1,Triumph Farm,16396,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7722433,-77.9242,35.0569,6
+803,2160,Duplin,1,Steve Smith Farm,2494,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2002320,-77.8587,35.0576,6
+1089,5760,Duplin,2,Family Farms Inc,4903,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.8003,35.0569,6
+1011,2480,Duplin,2,John Smith Jr. Sow Farm,2274,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-77.7647,35.0489,6
+642,20009,Lenoir,6,The Pig Ranch,28892,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,18548343,-77.6873,35.0437,6
+676,3624,Lenoir,2,S&S Hog Farm,4970,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3359448,-77.7155,35.0566,6
+412,7577,Lenoir,1,Cypress Lane Farms,3513,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1447207,-77.6747,35.0544,6
+103,600,Lenoir,1,Lenior Boar Stud,22491,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,2316600,-77.6606,35.0509,6
+690,2400,Lenoir,2,Whaley Farm,11141,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.6072,35.0689,6
+660,7927,Jones,2,Farm # 3509 & 3722,38470,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,25390181,-77.5417,35.0538,6
+699,13123,Jones,6,Andrews Farm,17403,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,12165021,-77.4383,35.05,6
+817,1100,Sampson,2,Sampson Sow Farm,4312,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3523300,-78.5687,35.0328,6
+1009,1240,Sampson,1,Lynn Tew Farm,1139,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-78.5186,35.0265,6
+1167,4896,Sampson,1,McKenzie Finishing,3889,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.4669,35.0226,6
+905,4410,Sampson,2,"Hollingsworth Farms, Inc.",4517,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.4549,35.0242,6
+1066,5600,Sampson,2,Matt Butler Farm,1003,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1069600,-78.4394,35.045,6
+1093,5760,Sampson,1,Butler Farms,1007,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1100160,-78.4295,35.0411,6
+772,10496,Sampson,1,Farm 2046,12603,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9729792,-78.2413,35.0529,6
+911,8000,Sampson,2,Passingham Farm,8141,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7416000,-78.2152,35.0534,6
+1015,6966,Sampson,1,Farm 2026,6362,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6457482,-78.1765,35.0491,6
+950,9792,Duplin,2,Linda's Farm,9555,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.1403,35.0547,6
+1071,14375,Duplin,4,Scott Farm Sites 1-4,10416,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,11155000,-78.09,35.0467,6
+1105,6600,Duplin,1,Winters Tract - Grady,5537,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6118200,-78.0778,35.0575,6
+1167,10310,Duplin,3,Farm 2029,8190,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9557370,-78.0333,35.0425,6
+495,7344,Duplin,3,Bowles & Son Farm #1,13753,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.98,35.0542,6
+435,5950,Duplin,2,Cottle Farm,12680,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5515650,-77.9365,35.0446,6
+832,9792,Duplin,2,"Bell Enterprises 1,9",10910,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-77.8733,35.0567,6
+1011,3672,Duplin,2,Lynn & Annette Smith Farm,3367,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.8272,35.0264,6
+611,5760,Duplin,1,Kitty Noecker Farm,8739,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.7917,35.0286,6
+964,3600,Duplin,1,Ernie Rouse Farm,3462,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3337200,-77.7758,35.0361,6
+505,2700,Jones,2,Hill and Taylor Farm,4956,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2502900,-77.6156,35.0386,6
+552,6400,Sampson,2,Marcus Daniels Farm,10748,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.5869,34.9945,6
+818,7800,Sampson,2,Pig Trott Nursery,1821,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.5725,35.0132,6
+907,1240,Sampson,1,Brandon Faircloth Farm,1267,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-78.5424,35.0187,6
+1021,3200,Sampson,1,K&T Farms,599,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-78.4323,35.0232,6
+1017,7350,Sampson,1,Boneys Bros. Hog Farm 1-10,6700,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6813450,-78.4021,35.0054,6
+224,4896,Sampson,2,Knotty Pine Farm,20262,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.3679,35.0155,6
+955,1978,Sampson,1,T & M Sow Farm,6634,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6335534,-78.2589,35.0205,6
+888,5000,Sampson,1,Pope's Pig Palace,1075,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,955000,-78.2475,35.0228,6
+977,7040,Sampson,1,H&C Farm,6680,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.1828,35.0115,6
+954,10560,Duplin,2,Gilt Free Farms,10261,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9789120,-78.1333,35.0183,6
+1275,7800,Duplin,3,"Rabon Nursery 1, 2 & 3",1168,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.1183,35.0236,6
+1243,11200,Duplin,2,Sunshine Nurseries,1721,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2139200,-78.0747,35.0234,6
+1162,6131,Duplin,4,"Turner Farms, LLC",16900,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,19637593,-78.0361,35.0222,6
+387,3500,Duplin,1,Eco Systems I (Sows),28968,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-77.9944,35.0361,6
+879,2000,Duplin,2,"Benson Sow Farm, LLC",7288,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.9381,35.0339,6
+628,12800,Duplin,3,Double C Farms,18894,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11865600,-77.9278,35.0389,6
+697,6400,Duplin,3,N&T Farm 1-8,8512,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.8975,35.031,6
+224,7200,Duplin,2,"WBW Farms, Inc.",102954,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23061600,-77.8553,35.0022,6
+583,3840,Duplin,1,B-mack Farms LLC,1258,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.7623,35.0241,6
+566,10800,Duplin,3,"Enviro Tech 1, 2 & 3",61117,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,34592400,-77.7839,35.0144,6
+505,4750,Jones,2,Hill and Taylor Farm,30127,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,15214250,-77.6156,35.0386,6
+881,3150,Jones,2,Keith Metts Farm,3314,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2920050,-77.5469,35.0022,6
+163,7450,Jones,2,Laniers' Farms TCB Inc,42369,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6906150,-77.5125,34.9894,6
+549,3520,Jones,1,Rick Tyndall Farm,5944,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.4698,35.0058,6
+1002,10560,Jones,2,Triple K Farm,9770,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9789120,-77.3289,35.0114,6
+1179,6080,Sampson,1,"Ben Leonard, Jr.",985,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5416,34.9896,6
+959,10060,Sampson,1,"Belvoir Farm, Inc. 1-10, 11-14",9724,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9325620,-78.4361,35.0055,6
+708,3672,Sampson,1,Mike Herring Farm,4808,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4467,35.0086,6
+1109,2880,Sampson,1,R & J Farms 13-16,2407,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.2642,34.9981,6
+670,20992,Sampson,3,Farm 2037 and 2038,29044,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,19459584,-78.2221,35.0001,6
+676,15912,Duplin,4,Bell Enterprises 5-8,21820,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14750424,-77.9461,35.0097,6
+548,2035,Duplin,2,Batchelor Sow Farm,11894,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6518105,-77.9183,35.0139,6
+847,6660,Duplin,4,Smith Farms,7289,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6173820,-77.8072,35.0203,6
+596,2640,Jones,1,Graham Junior Heath Farm,4106,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.7214,35.0036,6
+566,6400,Jones,2,Potter's Hill Nursery #1 & #2,2160,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-77.6872,34.9897,6
+341,2680,Jones,1,Weston Hog Farm,7286,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2484360,-77.6492,35.0036,6
+371,3520,Jones,1,Billy Mills Farm / Fatback Farm,8795,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.6031,34.9972,6
+593,616,Jones,1,Frank Howard Farm,4011,Swine - Gilts,NC Dept. of Environmental Quality,Active,2378376,-77.5878,35.0081,6
+537,1574,Cumberland,1,Bullard Farm,2717,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1459098,-78.7164,34.9727,6
+445,4000,Cumberland,2,P-16 A&B,28791,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.6221,34.9595,6
+1000,2600,Sampson,1,Triple D Nursery,497,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.5338,34.9783,6
+372,6400,Sampson,2,Whitewoods Farm,15948,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.4891,34.9606,6
+762,10400,Sampson,3,Bearskin Nurseries,2607,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1986400,-78.445,34.9864,6
+974,2600,Sampson,1,JBK,510,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4328,34.9844,6
+1067,5240,Sampson,2,Concord #1 & #2,938,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1000840,-78.4044,34.9693,6
+630,5305,Sampson,3,Williams Hog Farm,7806,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4917735,-78.3881,34.9649,6
+742,9792,Sampson,1,Bryan King Farms,12233,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.2613,34.9718,6
+1009,4896,Sampson,2,Dail Brothers-Turkey Hog Farm,4498,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.1728,34.9848,6
+1136,7344,Sampson,2,Whitehorse Farms Inc.,5993,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.1631,34.9815,6
+767,3600,Duplin,2,2704 & 2706,15034,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11530800,-78.1422,34.9692,6
+934,7800,Duplin,3,"Jump and Run Farms, Inc.",1595,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.07,34.9714,6
+1131,2600,Duplin,1,Dail Brothers - Pig Crib Nursery,439,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.0292,34.9708,6
+826,6400,Duplin,1,Earl Davis Farm Site II,7183,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.0171,34.9598,6
+652,3552,Duplin,1,M & C Nursery,1041,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.9775,34.9783,6
+894,4320,Duplin,1,Billy Kilpatrick Farm,4479,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-77.9556,34.9847,6
+510,1350,Duplin,1,2147,10220,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,5212350,-77.9097,34.9875,6
+729,1760,Duplin,1,BGH Farm - Louis Howard # 2,2238,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.905,34.9894,6
+732,2448,Duplin,1,Ward Baker Farm,3100,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7736,34.9817,6
+549,5200,Duplin,2,Pigs-R-Us/Miller's Nursery,1809,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.7481,34.9786,6
+930,2448,Duplin,1,Brian Kennedy # 2,2440,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7153,34.9858,6
+866,2448,Jones,1,Sherall Houston Farm,2620,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.6769,34.9814,6
+679,3840,Onslow,2,Watchoverya Farms #2,1080,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.6442,34.9797,6
+465,12160,Cumberland,2,"OK Farms of Cedar Creek, LLC",4995,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2322560,-78.7139,34.9404,6
+608,14080,Sampson,2,Carroll's Farm # 2096,21467,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13052160,-78.5899,34.9669,6
+573,12000,Sampson,0,Scott Byrd Farm,4000,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2292000,-78.5744,34.9702,6
+542,2600,Sampson,1,Last Chance Pig Farm,916,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.5431,34.9482,6
+937,6400,Sampson,1,Robert Butler,1305,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.4288,34.9668,6
+589,1477,Sampson,4,"Lafayette Farms, LLC L-12",8032,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4730831,-78.3689,34.9502,6
+1197,5280,Sampson,1,Hope Farming Co. Farm,4089,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-78.3275,34.943,6
+587,4200,Sampson,1,Pork Plus,6633,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-78.1767,34.9624,6
+1085,5200,Duplin,4,W S Matthews Farms #2,915,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.0908,34.9667,6
+942,7800,Duplin,3,H&J Nursery #1 - 3,1582,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.0367,34.9689,6
+424,3672,Duplin,2,Stephen Williamson Farm,8028,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.9653,34.95,6
+642,5580,Duplin,1,DBA: Dail Brothers,8057,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5172660,-77.925,34.9542,6
+624,5310,Duplin,1,Dail Brothers & Edward Dail 5-12,7888,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4922370,-77.925,34.9683,6
+584,11016,Duplin,2,W&K and McKay Farm,17486,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-77.8658,34.975,6
+839,3600,Duplin,2,Sarecta Farms,3978,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3337200,-77.8242,34.9667,6
+958,1200,Duplin,1,Tim Noble Farm,1161,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.8184,34.9656,6
+799,1224,Duplin,1,Cabin Farm,1420,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1134648,-77.8014,34.9597,6
+781,3552,Duplin,1,Paradise Farms #2,869,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.7227,34.968,6
+514,12589,Onslow,1,"Lafayette Farms, LLC    L-11",22704,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11670003,-77.665,34.9617,6
+652,3360,Onslow,1,Watchoverva Farms #1,4777,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3114720,-77.6714,34.9725,6
+798,3520,Onslow,1,Weston Hog Farm,4089,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.6375,34.9708,6
+462,2448,Onslow,1,Brinson Farm,4912,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.6106,34.9431,6
+378,1224,Onslow,1,Morris Brinson Farm,3002,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1134648,-77.5778,34.9525,6
+538,4896,Onslow,1,A.J. Huffman Farm,8436,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.5494,34.9564,6
+270,2616,Cumberland,1,TDM 26,31034,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8379048,-78.6553,34.9217,6
+541,5880,Cumberland,1,OK Farms,10075,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.6328,34.9327,6
+300,8800,Sampson,1,F & W Farms / B - T Farm,27192,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-78.5612,34.9459,6
+684,7377,Sampson,1,"Lafeyette Farms, LLC L-3",9998,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6838479,-78.4506,34.9475,6
+529,4410,Sampson,2,A.D.J. Hog Farm 3-5,7728,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.3936,34.9474,6
+730,4412,Sampson,1,"Lafayette Farms, LLC   L-1",5603,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4089924,-78.3584,34.9351,6
+756,4180,Sampson,2,M & A Farms,5125,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3874860,-78.2698,34.9258,6
+417,6040,Sampson,2,Warren & Warren Farm,13427,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5599080,-78.2411,34.9543,6
+478,6000,Sampson,1,C & M I,11636,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5562000,-78.1704,34.9604,6
+806,5760,Duplin,3,Ronald Ezzell Farm #1-8,6625,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1542,34.9681,6
+540,1350,Duplin,1,2149,9653,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,5212350,-78.1367,34.9525,6
+312,7000,Duplin,2,Magnolia Farms 1&2,71862,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,22421000,-78.0933,34.915,6
+828,7360,Duplin,3,BJD Farm I,8240,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6822720,-78.0367,34.9478,6
+235,11200,Duplin,2,"Weston Farms, Inc.",44180,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10382400,-77.9053,34.945,6
+761,4410,Duplin,2,Tart Farm,5372,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-77.8378,34.9528,6
+786,3552,Duplin,1,"D & B Nursery, Site # 2 (5-8)",863,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.8289,34.9528,6
+624,3552,Duplin,2,Limestone Creek Farm,1087,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.7864,34.9469,6
+1072,2448,Duplin,1,Earnest Ray Carter Farm,2117,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7458,34.9292,6
+741,1240,Duplin,1,Lester Houston Farm,1551,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-77.7286,34.9414,6
+902,1240,Duplin,1,W.D. Thigpen Farm,1274,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1149480,-77.7022,34.9278,6
+895,2448,Onslow,1,Bert Hall Farm,2536,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.5583,34.9494,6
+859,2448,Onslow,1,Brinson II,2642,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.5389,34.9353,6
+281,1200,Jones,1,White Oak River Farms - Hoffman Sow Farm,13678,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-77.3724,34.926,6
+915,2000,Sampson,1,Farm #31 / 3731,7001,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.5105,34.9244,6
+573,2000,Sampson,1,Triple H Farms,11180,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.4587,34.9407,6
+619,6025,Sampson,1,Ernest Odum I & II,9023,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5585175,-78.3963,34.9442,6
+708,5880,Sampson,1,"Knowles-Carter Farms, LLC",7699,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.3139,34.9182,6
+626,10855,Sampson,2,University Farm,3312,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2073305,-78.3089,34.9303,6
+377,6480,Sampson,1,Waters Bros. LLC,15934,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6006960,-78.2327,34.9454,6
+365,7344,Sampson,2,Henry Lucas Farm #1 & #2,18652,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.2074,34.9463,6
+566,5760,Sampson,1,Perry Smith Farm,9434,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.1563,34.9456,6
+587,7200,Duplin,1,Farm 90,11370,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-78.1274,34.9361,6
+312,740,Duplin,2,Magnolia Farms 1&2,453,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,141340,-78.0933,34.915,6
+619,2184,Duplin,2,Thomas Chestnutt Farm #1,3271,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2024568,-77.9917,34.9292,6
+634,9792,Duplin,0,Vestal Farm #1 & #2,14317,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-77.9381,34.9322,6
+561,2600,Duplin,1,(M&G) Nursery,885,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.8161,34.9278,6
+746,2424,Duplin,2,Rex Halso & Son # 2,3012,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2247048,-77.7242,34.9292,6
+407,2880,Duplin,1,Next Generation 2,6560,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.685,34.9267,6
+896,8800,Onslow,3,Cavie Farms,9104,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8157600,-77.6253,34.9269,6
+865,4000,Onslow,1,Hugh Parker and Son,4287,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3708000,-77.5644,34.9347,6
+1090,1760,Onslow,1,Adron Whaley Farm,1497,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.5172,34.9119,6
+673,1574,Cumberland,1,Bullard Farm,2168,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1459098,-78.6236,34.9132,6
+357,5200,Cumberland,2,Beaverdam Nursery #1 & #2,2782,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.607,34.8913,6
+692,2907,Cumberland,1,P-18,13455,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9311121,-78.5476,34.8828,6
+428,6080,Cumberland,2,James Ray Hall,2713,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5438,34.8967,6
+515,2400,Sampson,1,Butler and Crumpler Farm (B&C Farm),14927,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.4977,34.911,6
+502,400,Sampson,2,Boykin Lake Farm,152,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-78.4267,34.8995,6
+381,5880,Sampson,1,"Lafayette Farms, LLC  L-7",14306,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.3727,34.9117,6
+880,6080,Sampson,2,J & T Nurseries,1320,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.3452,34.9178,6
+507,11016,Sampson,3,"Bradsher Farms 1, 2 & 3",20142,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-78.2979,34.9147,6
+980,336,Sampson,1,Clinton A. I. Center,1324,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,1297296,-78.2585,34.9084,6
+644,1355,Sampson,2,C & C Top Hog Farm,1950,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1256085,-78.2201,34.9078,6
+680,9000,Sampson,2,Wendy 9&10,2528,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1719000,-78.1989,34.9102,6
+467,6260,Sampson,2,Farm 2104 and 2106,12426,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5803020,-78.167,34.904,6
+672,12598,Sampson,3,"Farm 2701, 2102 & 2105",17378,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11678346,-78.1512,34.9282,6
+497,3120,Duplin,1,Elder Creek Farm,1199,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,595920,-78.0125,34.9008,6
+1465,19947,Duplin,2,Circle K Farm I & II,10566,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,15478872,-77.9597,34.9228,6
+203,3520,Duplin,1,Davis Bland Farm,3312,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,672320,-77.9003,34.9181,6
+326,720,Duplin,1,Garland Brock Farm,422,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,137520,-77.8836,34.8975,6
+381,1600,Duplin,1,Hunter Farm,3893,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1483200,-77.8253,34.8971,6
+608,4740,Duplin,2,Joey Carter Farms,7227,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4393980,-77.8144,34.9164,6
+1119,8440,Duplin,3,Whaleys Family Farms LLC,6992,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7823880,-77.75,34.8953,6
+1091,2860,Duplin,1,Next Generation 1,2430,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2651220,-77.7397,34.9108,6
+460,620,Duplin,1,Alpha Edwards Farm,1249,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,574740,-77.6997,34.9125,6
+218,2392,Duplin,1,Vance J. Basden Farm,10171,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2217384,-77.6858,34.9075,6
+1131,7000,Onslow,3,Double T Hog Farm,5737,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6489000,-77.5689,34.8822,6
+908,4200,Onslow,1,Cavanaugh Hog Farm,4288,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-77.5461,34.9128,6
+237,3200,Jones,1,White Oak River Farms (Forrest Nursery),2579,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.3708,34.9181,6
+703,6080,Cumberland,1,Pigtime Nurseries,1652,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5541,34.8867,6
+196,3552,Sampson,1,Nicken Farm II,3461,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.523,34.8928,6
+366,6080,Sampson,1,"Carr Boy Farms,  Inc 5-8",3173,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.4568,34.8939,6
+502,2450,Sampson,2,Boykin Lake Farm,15632,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7847350,-78.4267,34.8995,6
+687,1600,Sampson,1,SHW Sow Farm 1,7460,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5124800,-78.3521,34.9113,6
+547,1872,Sampson,1,"Lafeyette Farms,LLC L-6",10962,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5996016,-78.3625,34.8957,6
+1007,3040,Sampson,1,Lamb Farms,577,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,580640,-78.3262,34.8869,6
+707,2480,Sampson,1,Ivey K. Peterson Farm,3252,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.2855,34.896,6
+748,5145,Sampson,1,"Runt, Meat & Reds Hog Farm",6376,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4769415,-78.2802,34.8944,6
+1216,3480,Sampson,2,A & W Farms 9-13,2653,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,3225960,-78.2505,34.889,6
+708,752,Sampson,1,P-58,3402,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2408656,-78.2234,34.8991,6
+451,1506,Sampson,1,P-21,10696,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4823718,-78.2061,34.8949,6
+753,7344,Duplin,2,Johnson Sholar Farm #1 & #2,9041,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.0236,34.8761,6
+623,3672,Duplin,2,Jeff & Judy Spedding - Grower #296,5464,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.0042,34.8806,6
+1163,34382,Duplin,2,"Stockinghead Creek Farm, LLC Farm",22941,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,26680432,-77.9531,34.9131,6
+887,11520,Duplin,2,Kilpatrick Farms Inc,12040,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-77.8972,34.8931,6
+443,5720,Duplin,1,King Farms - Hallsville Farms,11969,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5302440,-77.8194,34.8833,6
+770,2480,Duplin,1,R & K Jarman Farms 4-7,2986,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-77.8133,34.8972,6
+328,6120,Duplin,2,Glade Ridge,17296,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-77.685,34.8911,6
+402,7680,Onslow,1,Double H Farms,3649,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1466880,-77.6211,34.8989,6
+538,3840,Onslow,1,Raynor's Nursery,1363,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.6108,34.8964,6
+481,3500,Bladen,1,Squire's Sow Complex,23307,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7709,34.8417,6
+247,11000,Bladen,7,Fox Fire Complex,41283,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10197000,-78.6465,34.8465,6
+330,4000,Bladen,1,Farm 7692,38824,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.6102,34.8366,6
+151,8898,Sampson,1,Maguire/McDaniels Farm,45727,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,6904848,-78.4724,34.8628,6
+320,11200,Sampson,2,Owens Branch,6685,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2139200,-78.4686,34.8764,6
+466,6080,Sampson,2,"L & W Farms, Inc",2492,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.4333,34.8704,6
+537,7000,Sampson,2,Southern Pines 1 & 2,41752,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,22421000,-78.4128,34.845,6
+495,2950,Sampson,2,P.M. Farm,5525,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2734650,-78.3421,34.8805,6
+410,3672,Sampson,1,Michael Carter Farm,8302,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.3034,34.8767,6
+724,2880,Sampson,1,Register Farm,3688,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.2707,34.8771,6
+608,7320,Sampson,2,Williamson Swine Farm,11161,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6785640,-78.2756,34.876,6
+440,18560,Sampson,6,D.M. Batts #1 - 5,39103,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,17205120,-78.179,34.8897,6
+676,48520,Duplin,7,"Magnolia III, DM Section 4 Sites 1-4, Section 3 Sites 4-5",66536,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,44978040,-78.1314,34.8875,6
+469,7344,Duplin,1,Reginald Kenan Farm,14516,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.0856,34.8833,6
+667,9376,Duplin,1,Corbett Farms 1-4,13031,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8691552,-77.9697,34.8522,6
+672,7320,Duplin,3,Bowles & Sons Farm Inc #3 - Former Heath Farm,10098,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6785640,-77.9456,34.8931,6
+217,4560,Duplin,2,William Edward Brock Farm,19480,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4227120,-77.8758,34.8781,6
+626,2420,Duplin,1,Charles Atkinson Hog Farm,3584,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2243340,-77.7972,34.8742,6
+1059,7344,Duplin,3,Ganders Fork,6429,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.7467,34.8833,6
+705,1196,Onslow,1,Duland Jenkins Farm #1,1573,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1108692,-77.6453,34.8736,6
+209,3000,Onslow,3,Onslow Farm,45976,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9609000,-77.5906,34.8603,6
+247,4400,Bladen,7,Fox Fire Complex,3402,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,840400,-78.6465,34.8465,6
+258,1350,Cumberland,1,242 Farm,16760,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4324050,-78.5504,34.852,6
+512,7344,Bladen,1,Mr. Holmes Sites #15 & #16,13297,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.531,34.8389,6
+616,3500,Sampson,1,Simmons Farm,18199,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.4521,34.8697,6
+333,2600,Sampson,1,Tommy Melvin Farm #2,1491,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4287,34.858,6
+329,2600,Sampson,1,Allen Cannady Farm #2,1509,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.3793,34.8451,6
+355,2600,Sampson,1,Scott Mitchell Nursery,1399,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.356,34.8454,6
+633,3520,Sampson,1,Johnny Hope Farms,5155,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-78.3353,34.8606,6
+860,2600,Sampson,1,DW & F #2,577,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.3067,34.8548,6
+260,3720,Sampson,1,M.& K. Matthis Farm,13263,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3448440,-78.2592,34.8575,6
+433,26280,Sampson,6,"Magnolia 4 , Melville I & II, DELL, DM Section 1 Site 4",56262,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,24361560,-78.1892,34.8669,6
+363,24846,Duplin,7,"DM Farms Sec 3 Sites 1-3, Wendy 3-8",63450,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,23032242,-78.1094,34.8825,6
+405,1860,Duplin,1,Henry D. Teachey Farm,4257,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1724220,-77.9489,34.8619,6
+438,2400,Duplin,1,Bobby Bland Hog Farm,17551,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.9231,34.8715,6
+352,2600,Duplin,1,Rabbit Island Nursery #2,1411,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.8931,34.8617,6
+571,3672,Duplin,1,RL Pickett Farm,5961,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.8656,34.8564,6
+624,2600,Duplin,1,J&T Nursery,796,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.8128,34.8603,6
+1058,5832,Duplin,2,Thigpen's Pig Pens,5110,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5406264,-77.7522,34.87,6
+1034,3672,Duplin,1,William Council Lanier Farm,3292,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.7033,34.8633,6
+852,1200,Onslow,1,Howard Farms - Sow,4511,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-77.4903,34.8469,6
+562,3840,Onslow,1,Greg Marshburn Farms,1305,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.4272,34.8403,6
+160,3400,Bladen,1,Cedar Bay Farm,68064,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10890200,-78.7213,34.8024,6
+219,3552,Bladen,1,Nicken Farm I,3098,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.5684,34.8373,6
+128,2915,Sampson,1,P-20,87928,Swine - Gilts,NC Dept. of Environmental Quality,Active,11254815,-78.4856,34.85,6
+545,4800,Sampson,1,P-12 A-D,28210,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,15374400,-78.4561,34.8458,6
+780,3200,Sampson,1,P-300,15840,Swine - Gilts,NC Dept. of Environmental Quality,Active,12355200,-78.3237,34.8417,6
+619,6400,Sampson,2,Jana Farms #1 & #2,1975,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.3032,34.8409,6
+284,7200,Sampson,2,Triad Farms #1 and #2,81203,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23061600,-78.2237,34.839,6
+284,800,Sampson,2,Triad Farms #1 and #2,538,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,152800,-78.2237,34.839,6
+618,31680,Duplin,4,DM Farms Sec 2 Sites 1-4,47520,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,29367360,-78.1514,34.8672,6
+649,17136,Duplin,4,Waycross Farm,24476,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,15885072,-78.1297,34.8489,6
+602,1200,Duplin,1,Johnny Boone Farm,1848,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-78.0647,34.825,6
+745,11016,Duplin,3,E & B Farms #1 - 3,13707,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-77.9492,34.8483,6
+678,7344,Duplin,2,Austin Farm #1 & #2,10041,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.9361,34.8475,6
+710,7200,Duplin,2,Bud Rivenbark Farm,9401,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-77.887,34.8432,6
+847,5760,Duplin,2,Danny Brown Farm,6304,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.7936,34.8283,6
+1076,2448,Duplin,1,K&W Farms (Jared & Shayne Farm),2109,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7575,34.84,6
+786,3672,Duplin,2,Shenandoah Farm,4331,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.7304,34.8433,6
+661,2448,Duplin,1,Sloan Brothers,3433,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7072,34.8447,6
+404,2448,Duplin,1,Hunter Farms,5617,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7056,34.8369,6
+509,4896,Onslow,2,Duland Jenkins Farm #2,8917,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.6625,34.8192,6
+448,2448,Onslow,1,Oneal Gurganus Farm,5065,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.6306,34.8272,6
+379,2424,Onslow,4,"Gillette Farm #1, # 2",5929,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2247048,-77.485,34.8219,6
+1101,3840,Onslow,1,Scott Farm,666,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.3856,34.8167,6
+142,3500,Bladen,1,Evergreen Sow,78947,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7832,34.8135,6
+127,3500,Bladen,2,Edge Farm / Farm 74451,5264,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,668500,-78.6174,34.8044,6
+1599,63446,Bladen,13,"Mr. Holmes Sites #1 - #14, #1 7, #18, Blueberry Sow, Bladen ,and Ammon Farm",36782,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,58814442,-78.5447,34.8192,6
+371,3600,Bladen,1,Peters Creek Farm (Sow),31080,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11530800,-78.5079,34.8364,6
+488,500,Sampson,2,Stafford Farm,196,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,95500,-78.3863,34.8156,6
+488,4462,Sampson,2,Stafford Farm,29286,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14291786,-78.3863,34.8156,6
+537,3765,Sampson,1,Ingold Sow Farm,22457,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12059295,-78.3457,34.8091,6
+375,8240,Sampson,3,A&B Hog Farm,20369,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7638480,-78.2687,34.8263,6
+361,10200,Sampson,3,"Peg Leg #1, #2, & #3",26192,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9455400,-78.1951,34.841,6
+422,3208,Sampson,1,SHW Delway Farm,24349,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10275224,-78.1947,34.823,6
+734,1800,Duplin,1,Gary Usher Farm,2273,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1668600,-78.0958,34.8233,6
+681,1500,Duplin,1,Rose Hill Buying Station,2042,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1390500,-77.9694,34.8278,6
+608,1400,Duplin,2,A&B Farm,2135,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1297800,-77.9531,34.8047,6
+1251,1198,Duplin,1,Wendell Teachey Farm,888,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1110546,-77.9236,34.8153,6
+380,2600,Duplin,1,James Michael Batts Farm,1307,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.7417,34.8083,6
+520,2723,Duplin,1,King Pens,4064,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,2113048,-77.73,34.82,6
+480,1440,Duplin,1,"Lazy ""B"" Farms",2781,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.6786,34.8125,6
+399,1200,Onslow,1,David Stroud Farm,2788,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.5483,34.8081,6
+234,6400,Bladen,1,Billups Nursery,5224,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.5927,34.7913,6
+715,5200,Bladen,1,Green Sea / Sir George,1389,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.4838,34.8064,6
+448,2600,Bladen,1,South River Nursery,1108,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4665,34.8057,6
+443,6760,Sampson,2,"Reeves & Reeves, Inc.",14146,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6266520,-78.4416,34.824,6
+192,624,Sampson,2,Garland Sow Farm,12548,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,2409264,-78.4191,34.803,6
+537,480,Sampson,1,Ingold Sow Farm,171,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,91680,-78.3457,34.8091,6
+319,7990,Sampson,2,2070,19436,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,6200240,-78.2997,34.8074,6
+271,400,Sampson,1,Southern Cross Farm,282,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-78.2756,34.7936,6
+271,3500,Sampson,1,Southern Cross Farm,41367,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.2756,34.7936,6
+162,20116,Duplin,3,Smith-Alderman Farm,96358,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,15610016,-78.1694,34.7806,6
+680,2411,Sampson,1,Farm 3713,11357,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7722433,-78.1797,34.821,6
+678,3675,Duplin,2,David Williams Farms Inc.,5025,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3406725,-78.1525,34.8108,6
+1075,6400,Duplin,2,BJD Farms II,5519,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.0969,34.8061,6
+1075,9792,Duplin,2,Rockfish Farms #1 and 2,8444,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.0889,34.8144,6
+1007,10400,Duplin,2,Danny L. Brown Farm,1973,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1986400,-78.0489,34.7892,6
+457,2600,Duplin,1,John Hardison Jr,1087,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.9836,34.7822,6
+533,1200,Duplin,1,E & B Farm # 4,2087,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1112400,-77.9775,34.805,6
+660,1440,Duplin,1,Batts Farm - Buddy King,2023,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1334880,-77.95,34.7992,6
+970,5160,Duplin,2,West Farms,4931,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4783320,-77.9275,34.7937,6
+568,7344,Duplin,2,Jason Cavenaugh I & II,11986,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.8403,34.7733,6
+470,3672,Duplin,1,Ann Lee English Farm,7242,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.8408,34.7825,6
+613,2600,Duplin,1,Pierce Nursery,810,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.7958,34.8069,6
+603,5280,Duplin,2,Papa Smurf Farm,8117,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4894560,-77.7847,34.7914,6
+542,10400,Duplin,4,Double D 1&2 and White Heifer 1&2,3665,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1986400,-77.7519,34.8008,6
+540,1760,Duplin,1,Chris and Beth Fountain Farm,3021,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.7039,34.8094,6
+481,3552,Duplin,1,Vida Loco,1410,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-77.6876,34.8101,6
+980,4320,Onslow,1,KDK Farms,4086,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4004640,-77.6314,34.8033,6
+281,3520,Onslow,2,Red Pittman Farm,11612,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.5678,34.7931,6
+482,3500,Bladen,1,Singletary Sow Farm,23258,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.7374,34.757,6
+312,7000,Bladen,3,Cain Complex,4285,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1337000,-78.6743,34.7598,6
+312,10000,Bladen,3,Cain Complex,29712,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9270000,-78.6743,34.7598,6
+449,6840,Bladen,1,A & D Farms,14122,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6340680,-78.5899,34.7668,6
+1351,14688,Bladen,3,"Turn Bull Farm #1, #2 & #3",10078,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13615776,-78.5432,34.7978,6
+677,2600,Bladen,1,Harvey Coble Nursery,734,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.497,34.7807,6
+431,2400,Bladen,1,2602-1,17836,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.4423,34.7499,6
+525,5200,Bladen,2,Ada Carter Nursery Site #1 & 2,1892,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.4334,34.7615,6
+276,4136,Sampson,3,Garland & Petty Farms,47999,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13247608,-78.358,34.7521,6
+339,2000,Sampson,1,A&P Farms,18897,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.3269,34.754,6
+287,2400,Sampson,1,2703,26785,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.287,34.7833,6
+371,4800,Sampson,2,Bobcat Farm,41440,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,15374400,-78.2495,34.7808,6
+601,1000,Duplin,2,3501 & 3102,17434,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,10478000,-78.1731,34.8031,6
+602,9792,Duplin,2,Matthews Farm #1 & #2,15078,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.1197,34.7931,6
+905,4848,Duplin,3,J-K 1-2-3-4,4966,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4494096,-78.0789,34.7778,6
+944,1860,Duplin,1,Scott Rivenbark Farm,1827,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1724220,-77.9417,34.7844,6
+848,2880,Duplin,1,King Farms K-7,3148,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.9414,34.7917,6
+579,5496,Duplin,3,Brad Brinson Farm,8799,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5094792,-77.7725,34.7842,6
+369,5200,Duplin,2,Backwoods Nursery #1 & #2,2692,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.7422,34.7869,6
+420,2880,Duplin,1,Juniper Ridge Farm,6357,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.6972,34.7783,6
+271,2600,Onslow,1,Lori Mobley Nursery,1832,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.6589,34.7653,6
+574,1776,Onslow,1,Earl Batchelor Farm,591,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,339216,-77.6261,34.7872,6
+179,2640,Onslow,1,Norwood Davis Farm,13672,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.6056,34.7633,6
+482,400,Bladen,1,Singletary Sow Farm,159,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-78.7374,34.757,6
+592,2600,Bladen,1,Melvin Nursery #1,839,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4815,34.7607,6
+380,4410,Sampson,1,Bobby & Todd Marshall,10758,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.3351,34.7577,6
+670,1700,Duplin,1,"Oak Grove Farm of Duplin, Inc.",8127,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5445100,-78.1331,34.7847,6
+713,11016,Duplin,3,Flagship Farms,14322,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-78.1389,34.7653,6
+963,9792,Duplin,2,Quail Run Farms 1 & 2,9426,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.1117,34.7533,6
+1028,3648,Duplin,2,Hwy 41 Farms 1&2,3290,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3381696,-78.0792,34.7439,6
+462,5200,Duplin,2,Joe & Dwight Sholar Farm 1&2,2150,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.7867,34.7708,6
+373,2448,Duplin,1,Little Brook Hog Farm,6084,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.7517,34.7642,6
+220,3200,Duplin,1,Buck Olsen Farm,13484,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-77.7083,34.7744,6
+351,2640,Duplin,1,Cypress Creek Farm,6972,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.6989,34.7614,6
+230,2400,Bladen,2,"Turnbull Company Farms, LLC",33423,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.6736,34.7322,6
+39,2600,Bladen,1,George Hall Nursery,12733,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6001,34.7418,6
+480,2600,Bladen,1,Melvin Nursery #3,1035,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4804,34.7561,6
+568,2600,Bladen,1,Longstreet Nursery,874,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.4252,34.7523,6
+396,2480,Bladen,1,South River Farm,5805,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2298960,-78.4025,34.7246,6
+295,3124,Sampson,4,"Clear Run #1, 2, 3, 4 & 5",33919,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10006172,-78.2697,34.7529,6
+295,7184,Sampson,3,Harrells Farm,18898,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,5574784,-78.2315,34.7477,6
+537,1180,Duplin,1,Major Murray Hog Farm,2037,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1093860,-77.9606,34.7275,6
+425,5200,Duplin,2,I-40 Nursery #1 & #2,2337,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.9491,34.7382,6
+443,7040,Duplin,2,Chris and Jeremy Bond Farm,14732,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-77.8294,34.7625,6
+562,2880,Duplin,1,Elston Farms,4750,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.7767,34.7544,6
+408,2397,Duplin,1,Alvis Raynor Farm,5446,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2222019,-77.765,34.7511,6
+224,2600,Duplin,1,Charles Aycock #2 (Mitchell Nursery),2217,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.7399,34.7539,6
+378,6120,Duplin,2,"Triple D Farm, LLC",15009,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-77.6833,34.7556,6
+359,1800,Onslow,2,Jenkins Farm Inc,16060,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5765400,-77.6614,34.7508,6
+202,2600,Onslow,1,Walton Brothers Nursery,2458,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.6239,34.7464,6
+567,6400,Onslow,1,Barry Shepard Farm,10463,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-77.5678,34.7258,6
+376,1760,Onslow,1,Sandy & Gary Dixon Farm,4339,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.5333,34.7386,6
+84,6400,Bladen,1,Wayne & Susan Smith Farm,14552,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.4627,34.7198,6
+94,15600,Sampson,6,Coach Whip Nursery Complex,31698,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,2979600,-78.3637,34.7336,6
+225,12240,Sampson,1,CC/Tomahawk Farm,50429,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11346480,-78.3333,34.7252,6
+358,6000,Sampson,3,"P-22 A, B, and C",53682,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,19218000,-78.2863,34.6812,6
+192,2600,Sampson,1,Herbert Sanderson Farm,2586,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.2589,34.7342,6
+744,4706,Sampson,1,P-25,4908,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,3651856,-78.1773,34.7276,6
+753,2580,Sampson,1,George McGill,3176,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2391660,-78.1706,34.7196,6
+801,2448,Duplin,1,Mears Branch Farm,2833,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.125,34.7369,6
+620,2000,Duplin,2,S-3 / S-4,10332,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.0933,34.7333,6
+504,2400,Pender,2,Phillips Partners,15252,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.9775,34.705,6
+252,3672,Pender,2,Shady Oak Farm,13508,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.9428,34.7106,6
+571,9792,Duplin,1,Juniper Farms #1 & #2,15897,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-77.7964,34.7319,6
+716,4896,Duplin,2,Bobby Sholar Farm,6339,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.7978,34.7367,6
+229,7344,Duplin,2,Big Brook #1 & #2,29729,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-77.7481,34.7497,6
+475,6120,Duplin,3,William James Farm,11944,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5673240,-77.7181,34.7319,6
+461,2448,Onslow,1,Dewayne Silance Farm,4923,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.5319,34.7208,6
+493,14688,Bladen,3,Kinlaw Farm #1 - #3,27618,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13615776,-78.6834,34.7036,6
+155,2600,Bladen,1,"All In Farms, Inc. (Yorick Nursery)",3204,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6454,34.6892,6
+487,2560,Bladen,2,Oscar Autry Farm,4873,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2373120,-78.4991,34.6869,6
+366,3552,Bladen,1,Larson Jones Farm,1854,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.3949,34.7184,6
+268,7000,Sampson,2,Riverfront #1 & 2,83660,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,22421000,-78.3383,34.692,6
+356,2600,Sampson,1,Cascade Nursery & Finishing Farm,1395,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.2838,34.6996,6
+378,9600,Sampson,5,Peterson Farm,23543,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8899200,-78.2379,34.7077,6
+265,2000,Sampson,1,Ronnie Carter Farm,6996,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1854000,-78.197,34.692,6
+726,4065,Sampson,2,Jerri Ann Hog Farm 7-12,5190,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3768255,-78.1442,34.7064,6
+411,4000,Pender,1,Stoneybrook Farm,31173,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.0833,34.7083,6
+609,11016,Duplin,3,Doug Bond Farm,16768,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10211832,-77.7583,34.725,6
+400,5760,Duplin,2,LD & Winfred Maready Farm,13349,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.7328,34.7311,6
+436,6630,Pender,2,Maple Hill Sow Farm,48706,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,21235890,-77.7236,34.7139,6
+248,8568,Pender,2,Charles Wooten Farm #1 & #2,32026,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7942536,-77.6642,34.6876,6
+168,2205,Bladen,1,Fletcher McDuffie Farms,12167,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2044035,-78.5626,34.686,6
+337,7344,Sampson,3,Greg Horrell Farm #2 & Addition,20201,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.3324,34.6995,6
+544,7800,Sampson,3,"Five Points, Huckleberry Hill & Deer Field Nurseries",2739,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.1726,34.6984,6
+392,5880,Sampson,1,M&R Farms,13905,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.1809,34.6883,6
+590,5200,Sampson,2,Paul Stanley Nurseries,1683,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.1534,34.6873,6
+261,3500,Onslow,1,"Green Meadows Farms, Inc.",42952,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-77.6186,34.6636,6
+279,2640,Onslow,1,Rawls Farms,8772,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2447280,-77.5617,34.68,6
+92,5200,Bladen,1,Shannonbrooke Farms,10796,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.6616,34.6746,6
+153,2600,Bladen,1,"All In Farms, Inc. (Turkey Oaks Nursery)",3246,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6422,34.6843,6
+147,3672,Bladen,1,Billy E Bordeaux Farm,23156,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5514,34.6825,6
+673,1920,Bladen,1,3M's & T Inc.,2645,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1779840,-78.5007,34.6812,6
+401,2880,Bladen,1,Kenneth Autry Farm,6658,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.4936,34.6828,6
+154,6080,Sampson,1,"Alpine Farms, Inc.",7541,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.2153,34.6761,6
+326,7400,Pender,2,NC Wolf & Pack,72706,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23702200,-78.0869,34.6558,6
+812,7920,Pender,3,Raccoon Farm,9042,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-78.0689,34.6597,6
+640,1446,Pender,0,Willow Creek Sow Farm,7237,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-78.0044,34.6725,6
+811,1248,Pender,2,Watha Farm K-6,4929,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3997344,-77.9611,34.6725,6
+345,5200,Pender,1,Jonathan Rivenbark Farm,2879,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.9269,34.6642,6
+261,400,Onslow,1,"Green Meadows Farms, Inc.",293,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-77.6186,34.6636,6
+483,15360,Bladen,3,MKJS Farm Sites 1-3,29480,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14238720,-78.7228,34.6281,6
+476,5600,Bladen,1,Quality Farms Inc,10906,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5191200,-78.689,34.6372,6
+94,458,Bladen,1,Doug Bordeaux Farm #1,4517,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,424566,-78.5493,34.6505,6
+350,7200,Bladen,2,Shadow Glenn & Webber Farm,65890,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23061600,-78.3517,34.6213,6
+166,2580,Sampson,1,Ronnie Carter #2 Farm,14408,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2391660,-78.2022,34.6526,6
+898,7000,Pender,2,Bull Tail #1 & #2 (Sow),24968,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,22421000,-78.15,34.6333,6
+569,6400,Pender,2,Lucas Carter Farm,2148,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.1411,34.6511,6
+577,4200,Pender,1,Crooked Run Farm,6748,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3893400,-78.0164,34.6669,6
+660,1800,Pender,1,Watha Farm,2528,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1668600,-77.9519,34.6431,6
+350,1000,Bladen,2,Shadow Glenn & Webber Farm,546,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,191000,-78.3517,34.6213,6
+152,1300,Sampson,1,Barefoot Farm,27394,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4163900,-78.269,34.6436,6
+26,5747,Sampson,1,Kerr Farm,171526,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,4459672,-78.2197,34.6339,6
+898,1000,Pender,2,Bull Tail #1 & #2 (Sow),213,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,191000,-78.15,34.6333,6
+745,7040,Pender,1,Gene Wells Farm,8760,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-77.9825,34.605,6
+885,5200,Pender,1,Jenni Farm #1 & 2,1122,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.9481,34.6258,6
+959,3500,Pender,1,Van Eden Farms,11690,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-77.9333,34.61,6
+144,950,Pender,1,King Farms K-3,6116,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,880650,-77.8694,34.6158,6
+165,1224,Onslow,1,Sanders & Davis Farm Inc,6877,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1134648,-77.6111,34.6386,6
+463,11760,Bladen,3,David Gooden Hog Farm 1-16,23545,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10901520,-78.5992,34.5839,6
+170,5880,Bladen,1,C.E.R. Inc.,32063,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.5614,34.5927,6
+160,10400,Sampson,1,Greene Complex,12415,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1986400,-78.2782,34.6026,6
+160,3479,Sampson,1,Greene Complex,69645,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11143237,-78.2782,34.6026,6
+201,2448,Pender,1,"Beaver Branch Farms, LLC",11290,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.025,34.6125,6
+959,400,Pender,1,Van Eden Farms,80,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-77.9333,34.61,6
+275,1725,Pender,1,Crooms Bridge Farm / Blackjack North,5815,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1599075,-77.8317,34.6131,6
+677,2940,Bladen,1,Harold Pait Farm,4026,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.7232,34.5921,6
+137,2600,Bladen,1,Little Crib,3625,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6897,34.599,6
+618,2600,Bladen,1,White Bay Nursery Farm,804,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6664,34.5896,6
+575,6080,Bladen,1,Baldwin Branch Nursery,2020,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.6395,34.5809,6
+508,7200,Pender,2,Pender I & II,45397,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,23061600,-78.1575,34.5911,6
+330,2400,Pender,1,2601,23295,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.1044,34.62,6
+502,4896,Pender,2,Pork Chop # 2,9041,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.0067,34.5836,6
+189,2400,Pender,1,Six Forks Farm,11771,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2224800,-77.9067,34.6,6
+771,28152,Bladen,4,Storms Farm Waste to Energy Digester Facilities,33848,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,26096904,-78.7456,34.5478,6
+764,2600,Bladen,1,Kenneth Kinlaw #4,650,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.7095,34.5808,6
+224,2600,Bladen,1,Clay Hill Farms,2217,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.6814,34.5903,6
+496,7344,Bladen,2,Mitchell Norris #1 & #2,13726,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.5461,34.5786,6
+318,4000,Bladen,2,P-17 A &B,40289,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.495,34.5578,6
+81,2400,Bladen,1,French's Creek Sow Farm,94904,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-78.4185,34.547,6
+672,3600,Pender,1,Hairr II,17159,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11530800,-78.1428,34.5925,6
+672,500,Pender,1,Hairr II,142,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,95500,-78.1428,34.5925,6
+193,2600,Pender,1,Debose Nursery,2573,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Expired,496600,-78.085,34.5797,6
+527,3672,Pender,1,Stanley Farms #6,6459,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.0572,34.5717,6
+1052,1200,Pender,1,English Farms,4404,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,4633200,-77.938,34.5821,6
+319,6080,Bladen,1,Big Bay Nursery,3640,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.7149,34.5517,6
+484,7800,Bladen,3,"Kinlaw Nursery #1, #2, #3",3078,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1489800,-78.6927,34.5652,6
+833,4410,Bladen,1,Layton Johnson Farm,4908,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4088070,-78.6592,34.5674,6
+333,1200,Pender,1,3135,13914,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,4633200,-78.1796,34.5612,6
+530,3672,Pender,1,Stanley Farm #5,6423,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.0742,34.5728,6
+541,1800,Pender,2,Stanley Farms #7,3084,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1668600,-78.0181,34.5636,6
+753,3672,Bladen,1,Nick Gooden Finisher,4521,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.6323,34.5243,6
+470,2000,Bladen,1,Farm #30,13630,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-78.5914,34.5169,6
+398,3672,Bladen,1,Burney Farm,8553,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5855,34.5565,6
+447,2600,Bladen,1,JC Farm 1,1111,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.5868,34.5422,6
+587,5880,Bladen,1,Norris Farm #2,9286,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.5435,34.5411,6
+271,3400,Bladen,1,Bladen Springs,40185,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10890200,-78.4634,34.5402,6
+118,10000,Bladen,3,Frenches Creek Finishing,78559,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9270000,-78.3828,34.5191,6
+468,5200,Pender,2,Fennert & Brewster Nursery,2122,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.1469,34.5275,6
+523,7255,Pender,2,"Humphrey Hog Farm, Inc. Farm",12859,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6725385,-78.0316,34.5438,6
+401,1000,Pender,1,M & D Sow Farm,7988,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3203000,-78.0389,34.5553,6
+150,5200,Pender,2,JK Barnhill Teachy Farm,6621,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.8667,34.5325,6
+50,750,Onslow,1,Shepard Farm,48045,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2402250,-77.5919,34.5269,6
+512,2600,Bladen,1,J. C. Farm 2,970,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-78.5879,34.539,6
+334,1808,Bladen,1,Oak Springs Sow Farm,17338,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5791024,-78.4903,34.5314,6
+422,4000,Bladen,1,McQueen Farms 1 & 2,30360,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.7176,34.4786,6
+891,1506,Bladen,1,P-15,5414,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4823718,-78.6164,34.5205,6
+557,3672,Bladen,1,J.B. Priest Farm 2,6111,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.5284,34.5048,6
+570,2448,Bladen,1,Joel Robbins Finishers,3981,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.5185,34.5098,6
+535,7200,Bladen,1,Farm 91 / Farm 3091,12476,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6674400,-78.4749,34.5245,6
+307,5200,Pender,1,Moore Farm,3235,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.1703,34.5019,6
+201,2448,Pender,1,Black Farms of Pender County,11290,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-78.1408,34.4928,6
+439,5062,Pender,1,J. K. Barnhill Sumner Farm,2202,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,966842,-78.05,34.4886,6
+68,3672,Pender,1,Ponderosa,50058,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.9917,34.5,6
+390,2448,Pender,1,Fennell Farms # 2,5819,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.9639,34.4917,6
+381,16000,Bladen,3,Farm #29 & Farm #93,38929,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,14832000,-78.7728,34.4962,6
+385,4462,Bladen,2,Pinnacle Sow Farm,37122,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,14291786,-78.5824,34.4987,6
+292,15040,Bladen,2,Bladen Twenty Sites 1 & 2,47747,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,13942080,-78.5605,34.5047,6
+543,400,Bladen,2,Lisbon Sow Farm #1,141,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-78.5413,34.4989,6
+543,3500,Bladen,2,Lisbon Sow Farm #1,20645,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.5413,34.4989,6
+135,3672,Bladen,1,J. B. Priest Farm 3,25214,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.4786,34.5003,6
+265,3672,Pender,2,J. K. Barnhill Topping 1,12845,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.1639,34.4931,6
+954,2448,Pender,1,Coastal Farms,2379,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.8625,34.475,6
+327,1504,Bladen,1,Ham Hock Farm,14732,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4817312,-78.6032,34.4825,6
+448,6080,Bladen,1,Bennett Place,2592,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1161280,-78.5506,34.472,6
+621,3500,Bladen,1,Lisbon Sow Farm #2,18052,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.5376,34.4877,6
+805,3204,Bladen,1,Neill Jackson Farm,760,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611964,-78.4379,34.4516,6
+454,4896,Pender,2,Hall Farm 1 & 2,9997,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.9611,34.455,6
+44,8568,Pender,1,Trumpeter Creek Farms #1 & #2,180512,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7942536,-77.7657,34.4428,6
+1200,4800,Columbus,2,Freedman Farm,3708,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-78.7572,34.4532,6
+714,6000,Columbus,1,Coastal Farms Inc,26916,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,19218000,-78.7167,34.4367,6
+933,5200,Columbus,1,KBA,1065,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-78.6478,34.4431,6
+738,4000,Bladen,1,Farm #28 / 3728,17360,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.593,34.4696,6
+110,3200,Pender,1,"H&G Farms, Inc.",26967,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-78.0292,34.45,6
+809,300,Columbus,4,Wooten Farm,1432,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,1158300,-78.7347,34.4381,6
+188,2940,Bladen,1,Graham Farms,14497,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.3818,34.4211,6
+371,2600,Pender,1,K. D. Peay Pig Nursery,1339,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.9605,34.4448,6
+720,9200,Columbus,2,Farm 3417,11845,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8528400,-78.6917,34.4167,6
+707,5880,Columbus,1,Fisher Farms,7710,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5450760,-78.7344,34.3656,6
+109,1200,Columbus,1,Bogue Farm II,35262,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-78.5961,34.3842,6
+297,2940,Columbus,1,"Owen Farm, Inc.",9176,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2725380,-78.2939,34.3806,6
+726,500,Columbus,3,Donald Ward Hog Farm,7216,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,5239000,-78.6147,34.3578,6
+177,2000,Columbus,1,Cornerstone Farm- Sow Farm,43627,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,7722000,-78.4417,34.325,6
+606,7040,Columbus,1,"B & F Farms, Inc.",10769,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-78.9658,34.2931,8
+676,6400,Columbus,2,Circle E Farms I & II,1808,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-79.0214,34.2719,8
+207,2000,Columbus,5,"Sea Gro, LLC",37304,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,7722000,-78.9264,34.2646,8
+464,17640,Columbus,1,"Double B Farms, Inc. 1-24",35242,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,16352280,-78.8614,34.2436,8
+1296,3200,Columbus,1,Donald Strickland,2289,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-78.8425,34.2575,8
+777,600,Columbus,1,Shan Spivey Topping Operation,716,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,556200,-78.7958,34.1903,8
+757,1200,Columbus,2,Hardwick Farms,303,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,229200,-78.7867,34.1833,8
+477,1200,Columbus,2,HD3 Farms,8058,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3843600,-78.8033,34.12,8
+592,1000,Columbus,1,John Blosser Swine Farm,1566,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,927000,-78.7533,34.1269,8
+866,9792,Columbus,2,Warren Miller Farm #1 & #2,10482,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.7492,34.1111,8
+177,2000,Columbus,1,Cornerstone Farm- Sow Farm,43627,Swine - Farrow to Feeder,NC Dept. of Environmental Quality,Active,7722000,-78.4417,34.325,9
+461,12160,Columbus,2,Grassy Lane Farms I & II,24452,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11272320,-78.3811,34.2611,9
+620,9120,Columbus,2,Hart Farm,13636,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8454240,-78.3806,34.2433,9
+1477,4000,Columbus,1,Farm 7694,8674,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.65,34.15,9
+138,4800,Columbus,1,Barnhill Farms,32243,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-78.5306,34.1667,9
+592,1000,Columbus,1,John Blosser Swine Farm,1566,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,927000,-78.7533,34.1269,9
+290,3552,Brunswick,1,Juniper Creek,2339,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,678432,-78.5112,34.1396,9
+401,4000,Brunswick,1,"Carolina Bay Farms , LLC",31950,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-78.4239,34.124,9
+345,12800,Brunswick,3,"Broadwater Farms, Inc.",34393,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11865600,-78.1139,34.1119,9
+866,9792,Columbus,2,Warren Miller Farm #1 & #2,10482,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9077184,-78.7492,34.1111,9
+650,5760,Brunswick,1,Tom Mintz Farm,8215,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-78.5225,34.1108,9
+428,6080,Brunswick,1,Robert Ward Farm,13169,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5636160,-78.1451,34.1002,9
+291,2880,Brunswick,1,Howard Robinson,9174,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-78.1139,34.1208,9
+276,2900,Brunswick,1,Funston Farms - Old & New,33655,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9288700,-78.0403,34.1083,9
+276,1710,Brunswick,1,Funston Farms - Old & New,5743,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1585170,-78.0403,34.1083,9
+777,3500,Columbus,1,"Seawright Farms, Inc.",14428,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-78.74,34.11,9
+507,6400,Brunswick,1,Bennie King,2411,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1222400,-78.4742,34.105,9
+404,4896,Columbus,1,Darrell Stocks Farm,11234,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-78.6833,34.06,9
+193,3750,Brunswick,1,Clemmons and Sons #2 (New-CM2),18012,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3476250,-78.2083,34.0669,9
+350,6400,Brunswick,1,"Bell Swamp Farms, Inc.",16951,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5932800,-78.1519,34.0971,9
+113,3672,Brunswick,1,Clemmons & Son #1 (Old-CL1),30123,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-78.2133,34.0647,9
+308,7344,Columbus,2,State Line Farm #1 & 2,22104,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6807888,-78.7244,34.0078,9
+406,110,Brunswick,1,W & W Farms,2839,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,1152580,-78.4972,33.9667,9
+599,4800,Gates,2,"Sarem Farms, Inc.",25667,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,15374400,-76.7856,36.475,11
+670,880,Gates,1,Byrum Farm,1218,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,815760,-76.6702,36.4924,11
+439,1446,Northampton,1,Farm 8532,10550,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-77.1353,36.4772,11
+201,7000,Gates,1,George Lang Farm,6652,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1337000,-76.7072,36.4375,11
+441,760,Pasquotank,2,L.E. Winslow & Son Farm,1598,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,704520,-76.3542,36.4236,11
+654,500,Northampton,2,Greg Taylor Farm,709,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,463500,-77.3289,36.4067,11
+1122,3528,Northampton,2,DMJ Farm,2915,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3270456,-77.2694,36.4172,11
+750,180,Gates,2,Paul Lilley Farm,46,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,34380,-76.7622,36.4175,11
+845,600,Northampton,1,Blue Rose 4,658,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,556200,-77.2731,36.3983,11
+589,6445,Hertford,4,Farm 8525 & 8526,35048,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,20643335,-77.1048,36.3705,11
+1066,3200,Gates,2,Indian Neck Hog & Poultry Farm,2783,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2966400,-76.7014,36.3661,11
+451,1100,Northampton,3,Nancy Wheeler Farm,2261,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1019700,-77.3356,36.3544,11
+512,500,Northampton,1,Jenkins Farm,905,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,463500,-77.2773,36.3745,11
+616,984,Northampton,2,Mike Lassiter Farm,1481,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,912168,-77.2647,36.3647,11
+1026,560,Perquimans,1,Larry & Barbara Stallings Farm,506,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,519120,-76.4586,36.3536,11
+643,8104,Northampton,2,Farms # 91 / 8091,11683,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7512408,-77.2514,36.3181,11
+1410,1800,Perquimans,1,Douglas C. Baker Farm,1183,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1668600,-76.5197,36.3411,11
+572,18600,Northampton,3,"Winnaway Farm - Sites 1, 2 & 3",6211,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,3552600,-77.3583,36.3306,11
+586,3272,Hertford,2,Farm 31,17884,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,10480216,-77.1499,36.3053,11
+1213,462,Chowan,2,Stallings Family Farm,1471,Swine - Gilts,NC Dept. of Environmental Quality,Active,1783782,-76.5708,36.3261,11
+540,3927,Northampton,2,Farm 37 / 8537,23293,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12578181,-77.3631,36.3122,11
+448,1000,Northampton,2,DMJ Farms 2,2069,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,927000,-77.3264,36.3008,11
+478,2400,Hertford,2,Farm 40,16082,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-76.89,36.2867,11
+683,1776,Hertford,1,Brian Mitchell Farm,2410,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1646352,-76.75,36.2917,11
+1219,260,Chowan,1,Beaver Swamp Hog,41,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Expired,49660,-76.6056,36.2819,11
+447,4000,Northampton,3,Plantation Sow Farm,28662,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-77.2178,36.2481,11
+471,6544,Bertie,4,Farm 35 & 33,44502,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,20960432,-77.175,36.2417,11
+704,2664,Hertford,1,Lena Lowe Farm,3508,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2469528,-76.7289,36.2631,11
+447,160,Northampton,3,Plantation Sow Farm,1382,Swine - Gilts,NC Dept. of Environmental Quality,Active,617760,-77.2178,36.2481,11
+231,3552,Hertford,1,DBA Merritt Farms,14254,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3292704,-76.825,36.2583,11
+1234,1900,Chowan,3,Curtis Byrum Farm,1427,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1761300,-76.5833,36.2603,11
+1181,2000,Perquimans,2,Belvidere Farms,323,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,382000,-76.5542,36.2475,11
+1197,500,Pasquotank,1,Reid Pig Farm Inc,1338,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Expired,1601500,-76.2097,36.2503,11
+1229,1400,Chowan,1,Billy R. Nixon Farm,1056,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1297800,-76.6164,36.2278,11
+938,1000,Chowan,1,Michael Nixon Farm,988,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,927000,-76.6756,36.2153,11
+1057,3077,Bertie,1,Kelford Hog Farm,2699,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2852379,-77.2486,36.1834,11
+686,3528,Bertie,2,Tri G Farms,4767,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3270456,-77.06,36.1433,11
+342,1096,Bertie,1,Tri-G3 Farm,2971,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1015992,-77.0379,36.1447,11
+1336,6216,Chowan,1,A.J. Smith & Sons Inc,4313,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5762232,-76.6325,36.1225,11
+1063,280,Perquimans,4,John Hobbs Farm,50,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,53480,-76.4794,36.1089,11
+371,4160,Bertie,3,Republican Sow Farm,35915,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13324480,-77.0267,36.0786,11
+591,11520,Bertie,2,Indian Woods,18069,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10679040,-77.1403,35.9903,11
+1149,59000,Washington,3,Somerset Farm,47601,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,54693000,-76.5358,35.8889,11
+927,1764,Edgecombe,2,Creekside Farm,7347,Swine - Gilts,NC Dept. of Environmental Quality,Active,6810804,-77.3781,35.8889,11
+676,531,Martin,2,Williamston Boar Stud Farm,3033,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,2050191,-77.1385,35.8783,11
+955,2150,Edgecombe,2,Blount Bros. Farm,7211,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6886450,-77.3694,35.8597,11
+1138,200,Washington,1,Tidewater Research Station 2,1841,Swine - Farrow to Finish,NC Dept. of Environmental Quality,Active,2095600,-76.6583,35.8544,11
+1386,7924,Tyrrell,4,New Colony Sow Farm,18312,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,25380572,-76.3217,35.827,11
+1018,606,Martin,2,Robersonville Boar Stud Farm,2298,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,2339766,-77.2217,35.8369,11
+1700,2400,Washington,4,Joshua Spear  Farm,1309,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,2224800,-76.4611,35.8367,11
+1386,2089,Tyrrell,4,New Colony Sow Farm,5819,Swine - Gilts,NC Dept. of Environmental Quality,Active,8065629,-76.3217,35.827,11
+1179,1119,Washington,3,Coles Farms Inc.- North Pork,3040,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,3584157,-76.5947,35.8161,11
+1386,600,Tyrrell,4,New Colony Sow Farm,83,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,114600,-76.3217,35.827,11
+790,1446,Pitt,1,Summitt Sow Farm,5863,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,4631538,-77.3451,35.756,11
+800,2400,Pitt,1,G.I.S. of North Carolina,9609,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7687200,-77.2855,35.7448,11
+1846,12000,Beaufort,4,"L.H. Allen & Son, Inc. - Finishing",6026,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,11124000,-76.6518,35.6666,11
+1846,3500,Beaufort,4,"L.H. Allen & Son, Inc. - Finishing",362,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,668500,-76.6518,35.6666,11
+1171,900,Hyde,0,Rodlee Pork Inc.,712,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,834300,-76.5817,35.6582,11
+1872,2065,Beaufort,4,James Allen Hog Farm,4259,Swine - Gilts,NC Dept. of Environmental Quality,Active,7972965,-76.6392,35.6401,11
+1876,1760,Beaufort,2,Benson Farms Inc (off-site farm),179,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,336160,-76.7136,35.6193,11
+874,2686,Beaufort,7,"J. L. M. Pantego Farms, LLC",9844,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,8603258,-76.6885,35.5884,11
+1221,3900,Beaufort,4,Beech Ridge Pork Farm Inc,10231,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12491700,-76.6133,35.58,11
+739,3099,Pitt,1,Sam Worthington Farm,3254,Swine - Wean to Finish,NC Dept. of Environmental Quality,Active,2404824,-77.2147,35.5717,11
+1205,1600,Pitt,1,Woodcliff Sow Farm,4253,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5124800,-77.2448,35.5368,11
+813,8640,Pitt,1,Four Oaks,9852,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8009280,-77.1774,35.5471,11
+738,4000,Pitt,2,Rosewood I,1035,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,764000,-77.2186,35.5578,11
+1128,2893,Pitt,1,High Ridge Farms,8215,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9266279,-77.2654,35.5133,11
+649,5760,Pitt,1,Green Leaf Farm,8227,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5339520,-77.1701,35.5407,11
+1258,6000,Pitt,1,Cloverdale Farm,4421,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,5562000,-77.2505,35.5212,11
+659,2893,Pitt,1,Fairwinds,14061,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9266279,-77.1826,35.5356,11
+585,7920,Pitt,1,Foxwoods,12550,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7341840,-77.1748,35.5283,11
+379,8640,Beaufort,2,"Ted and Jack Allen, Inc. # 2",21133,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,8009280,-77.1323,35.4926,11
+782,4339,Pitt,1,Southwoods,17772,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13897817,-77.1858,35.525,11
+960,1309,Beaufort,4,Four Beez Sow Farm,4367,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Expired,4192727,-76.7,35.4847,11
+833,1760,Pitt,1,Dick Mills & Son Farm II,1959,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.3252,35.471,11
+337,4896,Pitt,2,Ephraigm Smith Farm,13468,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.2803,35.4757,11
+500,2880,Pitt,1,M & J Farm 1,5340,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.2458,35.4628,11
+833,1760,Pitt,1,Dick Mills & Son Farm II,1959,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1631520,-77.3252,35.471,13
+542,4800,Pitt,1,Wayne Buck Farm,8210,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-77.2933,35.4686,13
+500,2880,Pitt,1,M & J Farm 1,5340,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2669760,-77.2458,35.4628,13
+499,4000,Beaufort,3,Vanguard Farms Inc,25675,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,12812000,-77.1284,35.4431,13
+499,160,Beaufort,3,Vanguard Farms Inc,1238,Swine - Gilts,NC Dept. of Environmental Quality,Active,617760,-77.1284,35.4431,13
+379,3800,Pitt,1,Swift Creek Farm,1915,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,725800,-77.2986,35.4392,13
+429,4800,Pitt,1,Keene Farm,10372,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4449600,-77.2549,35.443,13
+281,4896,Pitt,1,G&H Hog Farm,16152,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,4538592,-77.2398,35.4454,13
+669,4160,Beaufort,3,Hodges Sow Farm,19917,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13324480,-77.0333,35.425,13
+439,3840,Pitt,1,Dick Mills and Son Farm,8109,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3559680,-77.3574,35.4213,13
+205,722,Pitt,1,Windy Pines Farm,11281,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2312566,-77.3157,35.4253,13
+768,8299,Pitt,2,Hwy 43 Farm,2064,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1585109,-77.2619,35.4209,13
+314,824,Pitt,2,Louis Thomas Tyson Farm,2433,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Expired,763848,-77.3254,35.4074,13
+522,1188,Pitt,2,Ben Gardner Farm,8787,Swine - Gilts,NC Dept. of Environmental Quality,Active,4586868,-77.2974,35.4028,13
+716,3840,Pitt,1,Shayne Koehn Farm,1024,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.2554,35.4106,13
+254,4250,Pitt,1,Marion Hill Farm,15511,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3939750,-77.2205,35.4054,13
+330,2245,Beaufort,2,J.L.M. Wilmar Farms LLC,21790,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,7190735,-77.1127,35.3845,13
+726,11225,Pitt,5,Cullen Glenn Haddock Farm,14333,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,10405575,-77.3506,35.3994,13
+380,1815,Pitt,1,Lamur Buck Sow Farm,912,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,346665,-77.3156,35.4006,13
+906,3200,Craven,1,Creekside Farms,675,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,611200,-77.2927,35.3762,13
+1016,2448,Craven,1,David Stocks Farm LLC,2234,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2269296,-77.3024,35.3701,13
+285,2993,Craven,0,"Sand Ridge Farms, Inc",33637,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,9586579,-77.1038,35.3661,13
+1096,8000,Pitt,1,S&K Swine Inc,1394,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1528000,-77.318,35.3666,13
+1022,3840,Craven,1,Countryside Farm,718,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.279,35.3595,13
+775,5200,Craven,2,"Shady Branch Farms, LLC Palmetto",1282,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.1437,35.3577,13
+645,1500,Craven,1,Sammy Lane Farm,2156,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1390500,-77.3507,35.3179,13
+373,3500,Craven,1,Oakwood Sow Farm,30055,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,11210500,-77.2336,35.3139,13
+546,5200,Craven,2,"Shady Branch Farms, LLC Maul Swamp",1819,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.1101,35.3354,13
+170,4340,Beaufort,2,Wildwood Farm,81771,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,13901020,-76.9392,35.3141,13
+799,3093,Craven,2,W. Sam Lane Farm,3589,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2867211,-77.3608,35.3203,13
+554,3840,Craven,1,Allen Unruh Farm,1324,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.2702,35.311,13
+373,400,Craven,1,Oakwood Sow Farm,205,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,76400,-77.2336,35.3139,13
+890,3520,Craven,1,"TRC Farms, Inc.",3666,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3263040,-77.3325,35.2722,13
+395,3672,Craven,1,Rivers Edge Farms,8618,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3403944,-77.2281,35.2695,13
+60,1480,Craven,1,Belle Toler Farm,22866,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1371960,-77.0042,35.2645,13
+599,9900,Craven,1,Rhodes Livestock,3157,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1890900,-77.1617,35.2544,13
+605,1400,Craven,2,Wood Brothers Farming,2145,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,1297800,-77.3311,35.2299,13
+1013,2629,Craven,2,Tommy McCoy Livestock,2406,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2437083,-77.2839,35.2412,13
+254,2600,Craven,1,Moss Hill Farm,1955,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,496600,-77.2137,35.2549,13
+275,5200,Craven,2,Neuse #1 & Neuse #2,3612,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,993200,-77.2125,35.2584,13
+635,720,Craven,1,Douglas E. Cowan Farms,3632,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,2306160,-77.0575,35.2163,13
+122,809,Craven,2,Askin Boar Stud,25603,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,3123549,-77.0034,35.2139,13
+1168,3144,Craven,2,McCoy Cattle Farms,2495,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,2914488,-77.3436,35.1843,13
+128,400,Craven,1,Cow Pen Branch Farm,12066,Swine - Boar/Stud,NC Dept. of Environmental Quality,Active,1544400,-77.211,35.1801,13
+443,1832,Jones,3,Rosewood Swine Farms LLC,13246,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,5867896,-77.3382,35.1256,13
+302,10320,Jones,3,Taylor Finishing,31678,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9566640,-77.2528,35.0714,13
+302,4380,Jones,3,Taylor Finishing,2770,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,836580,-77.2528,35.0714,13
+479,3926,Craven,4,McLawhorn Livestock Farm Inc,26253,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Expired,12574978,-77.18,35.0661,13
+504,5600,Jones,1,Kee-Lang Farms Inc,2122,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,1069600,-77.2994,35.0392,13
+1002,10560,Jones,2,Triple K Farm,9770,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,9789120,-77.3289,35.0114,13
+1218,2000,Jones,1,"Clayhill Farms, Inc.",5259,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Active,6406000,-77.2917,34.9917,13
+862,8000,Jones,4,Farm #25 / 3425,8603,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,7416000,-77.2889,34.9806,13
+420,2500,Jones,1,Brent Riggs Farm,1137,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,477500,-77.3189,34.9419,13
+622,7040,Onslow,2,Collins Farms,10492,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,6526080,-77.2736,34.8428,13
+627,3840,Onslow,1,Jordan's Pig Farm,1170,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Active,733440,-77.2153,34.8422,13
+0,2000,Jones,1,Larry Jones Farm,0,Swine - Farrow to Wean,NC Dept. of Environmental Quality,Expired,6406000,-77.1,34.8167,13
+0,5600,Jones,1,Larry Jones Farm,0,Swine - Wean to Feeder,NC Dept. of Environmental Quality,Expired,1069600,-77.1,34.8167,13
+754,4198,Onslow,4,"Riggs Pork Farm, Inc.",5161,Swine - Feeder to Finish,NC Dept. of Environmental Quality,Active,3891546,-77.2006,34.8086,13
