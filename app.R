@@ -17,7 +17,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   
   #Read in data
-  dfPoultry <- read.csv('../data/raw/EWG_Poultry.csv')
+  dfPoultry <- read.csv('./data/raw/EWG_Poultry.csv')
   updateSliderInput(session,'set_thresh',max=max(dfPoultry$BIRD_COUNT))
   
 
