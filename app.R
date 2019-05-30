@@ -8,7 +8,7 @@ ui <- fluidPage(
   leafletOutput("mymap"),
   p(),
   sliderInput("set_thresh",
-              label = "Set Threshold",
+              label = "Minimum Biogas Potential (bird count)",
               min=0, max=10000, value=500
               )
 )
@@ -18,7 +18,10 @@ server <- function(input, output, session) {
   
   #Read in data
   dfPoultry <- read.csv('./data/raw/EWG_Poultry.csv')
-  updateSliderInput(session,'set_thresh',max=max(dfPoultry$BIRD_COUNT))
+  updateSliderInput(session,'set_thresh',
+                    max=max(dfPoultry$BIRD_COUNT),
+                    value=max(dfPoultry$BIRD_COUNT)/2
+                    )
   
 
   output$mymap <- renderLeaflet({
