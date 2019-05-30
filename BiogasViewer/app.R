@@ -1,6 +1,4 @@
 #Shiny app to explore biogas potential
-
-
 library(shiny)
 library(leaflet)
 library(tidyverse)
@@ -9,10 +7,9 @@ library(tidyverse)
 ui <- fluidPage(
   leafletOutput("mymap"),
   p(),
-  actionButton("recalc", "New points"),
   sliderInput("set_thresh",
               label = "Set Threshold",
-              min=0, max=10, value=5
+              min=0, max=10000, value=500
               )
 )
 
@@ -21,21 +18,12 @@ server <- function(input, output, session) {
   
   #Read in data
   dfPoultry <- read.csv('../data/raw/EWG_Poultry.csv')
+  updateSliderInput(session,'set_thresh',max=max(dfPoultry$BIRD_COUNT))
   
-  sliderValues <- reactive({
-    dfSelect = dfPoultry %>% filter(Barns > input$set_thresh)
-  })
-  
-  mapData <- eventReactive(input$recalc,{
-    dfSelect = filter(dfPoultry, Barns > input$set_thresh)
-  })
-  
-  points <- eventReactive(input$recalc, {
-    cbind(rnorm(40) * 2 + 13, rnorm(40) + 48)
-  }, ignoreNULL = FALSE)
-  
+
   output$mymap <- renderLeaflet({
-    leaflet(data =  filter(dfPoultry, Barns < input$set_thresh)) %>%
+    leaflet(data =  filter(dfPoultry, BIRD_COUNT > input$set_thresh)) %>%
+      setView(lng=-79.8373764,lat=35.5465094,zoom=7) %>% 
       addTiles() %>%
       addCircleMarkers(lng = ~X, lat = ~Y, radius= ~Barns,
                        stroke = FALSE, fillOpacity = 0.2
