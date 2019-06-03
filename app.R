@@ -8,7 +8,7 @@ ui <- fluidPage(
   leafletOutput("mymap"),
   p(),
   sliderInput("set_thresh",
-              label = "Minimum Biogas Potential (bird count)",
+              label = "Minimum Biogas Potential (MMBTU_potential)",
               min=0, max=10000, value=500
               )
 )
@@ -19,13 +19,13 @@ server <- function(input, output, session) {
   #Read in data
   dfPoultry <- read.csv('./data/raw/EWG_Poultry.csv')
   updateSliderInput(session,'set_thresh',
-                    max=max(dfPoultry$BIRD_COUNT),
-                    value=max(dfPoultry$BIRD_COUNT)/2
+                    max=max(dfPoultry$MMBTU_potential),
+                    value=max(dfPoultry$MMBTU_potential)/2
                     )
   
 
   output$mymap <- renderLeaflet({
-    leaflet(data =  filter(dfPoultry, BIRD_COUNT > input$set_thresh)) %>%
+    leaflet(data =  filter(dfPoultry, MMBTU_potential > input$set_thresh)) %>%
       setView(lng=-79.8373764,lat=35.5465094,zoom=7) %>% 
       addTiles() %>%
       addCircleMarkers(lng = ~X, lat = ~Y, radius= ~Barns,
