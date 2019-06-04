@@ -2,7 +2,7 @@
 library(shiny)
 library(leaflet)
 library(tidyverse)
-library(sf)
+library(rgdal)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -23,9 +23,7 @@ server <- function(input, output, session) {
   
   #Read in data
   dfPoultry <- read.csv('./data/raw/EWG_Poultry.csv')
-  dfSwine <- read.csv('./data/raw/EWG_Swine_etan.csv')
-  dfCattle <- read.csv('./data/raw/EWG_Cattle.csv')
-  fcPipes <- st_read('./data/spatial/Natural_Gas_Liquid_Pipelines_NC.shp')
+  fcPipes <- readOGR(dsn='./data/spatial/Natural_Gas_Liquid_Pipelines_NC.shp')
   
   #Slider for MMBTUS
   updateSliderInput(session,'set_thresh',
@@ -35,7 +33,7 @@ server <- function(input, output, session) {
   
 
   output$mymap <- renderLeaflet({
-    leaflet(data =  filter(dfSwine, MMBTU_potential > input$set_thresh)) %>%
+    leaflet(data =  filter(dfPoultry, MMBTU_potential > input$set_thresh)) %>%
       setView(lng=-79.8373764,lat=35.5465094,zoom=7) %>% 
       addPolylines(data=fcPipes,color='black',opacity=0.5,weight=2) %>% 
       addTiles() %>%
