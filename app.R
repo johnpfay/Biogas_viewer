@@ -8,9 +8,9 @@ library(rgdal)
 ui <- fluidPage(
   leafletOutput("mymap"),
   p(),
-  selectInput("select_layer",
+  selectInput(inputId = "dataset",
               label="Select biogas source:",
-              choices=c('Poultry','Swine','Cattle')),
+              choices=c('Poultry','Swine')),
   p(),
   sliderInput("set_thresh",
               label = "Minimum Biogas Potential (MMBTU_potential)",
@@ -23,7 +23,19 @@ server <- function(input, output, session) {
   
   #Read in data
   dfPoultry <- read.csv('./data/raw/EWG_Poultry.csv')
+  dfSwine <- read.csv('./data/raw/EWG_Swine_etan2.csv')
+  dfSwine$MMBTU_potential <- as.numeric(as.character(dfSwine$MMBTU_potential))
+  dfCattle <- read.csv('./data/raw/EWG_Cattle.csv')
   fcPipes <- readOGR(dsn='./data/spatial/Natural_Gas_Liquid_Pipelines_NC.shp')
+  
+  #Dataset input
+  datasetInput <- reactive({
+    switch(input$dataset,
+           'Poultry' = dfPoultry,
+           'Swine' = dfSwine,
+           'Cattle' = dfCattle)
+    
+  })
   
   #Slider for MMBTUS
   updateSliderInput(session,'set_thresh',
@@ -33,7 +45,8 @@ server <- function(input, output, session) {
   
 
   output$mymap <- renderLeaflet({
-    leaflet(data =  filter(dfPoultry, MMBTU_potential > input$set_thresh)) %>%
+    dfData = datasetInput()
+    leaflet(data =  filter(dfData, MMBTU_potential > input$set_thresh)) %>%
       setView(lng=-79.8373764,lat=35.5465094,zoom=7) %>% 
       addPolylines(data=fcPipes,color='black',opacity=0.5,weight=2) %>% 
       addTiles() %>%
